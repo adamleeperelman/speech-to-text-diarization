@@ -1,0 +1,43 @@
+[project]
+name = "speech-to-text-diarization"
+version = "1.0.0"
+description = "Speech-to-text processing with speaker diarization for call recordings"
+readme = "README.md"
+license = {file = "LICENSE"}
+authors = [
+    {name = "Adam Lee Perelman", email = "your.email@example.com"}
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+]
+requires-python = ">=3.8"
+dependencies = [
+    "openai-whisper",
+    "torch",
+    "torchaudio", 
+    "pyannote.audio",
+    "librosa",
+    "pandas",
+    "soundfile"
+]
+
+[project.urls]
+Homepage = "https://github.com/yourusername/speech-to-text-diarization"
+Repository = "https://github.com/yourusername/speech-to-text-diarization.git"
+Issues = "https://github.com/yourusername/speech-to-text-diarization/issues"
+
+[project.scripts]
+transcribe = "speech_to_text_with_diarization:main"
+
+[build-system]
+requires = ["setuptools>=45", "wheel"]
+build-backend = "setuptools.build_meta"
