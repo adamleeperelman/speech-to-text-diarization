@@ -1,0 +1,48 @@
+# Speech-to-Text with MLX-Whisper (Apple Silicon Optimized)
+# 
+# IMPORTANT: This replaces standard whisperx/faster-whisper due to MPS compatibility issues
+# on Apple Silicon M-series chips. MLX is Apple's framework specifically optimized for
+# Apple Silicon and provides better performance and compatibility.
+
+# MLX-Whisper for transcription (Apple Silicon optimized)
+mlx-whisper>=0.3.0
+
+# PyAnnote Audio for speaker diarization (works with PyTorch MPS)
+pyannote.audio>=3.1
+
+# PyTorch with MPS support (for PyAnnote only)
+torch>=2.0.0
+torchaudio>=2.0.0
+
+# Audio processing
+librosa>=0.10.0
+soundfile>=0.12.1
+pydub>=0.25.1
+
+# Audio preprocessing for improved diarization
+noisereduce>=2.0.0
+scipy>=1.10.0
+
+# Data manipulation
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Environment management
+python-dotenv>=1.0.0
+
+# Progress bars
+tqdm>=4.65.0
+
+# FFmpeg for audio conversion
+ffmpeg-python>=0.2.0
+
+# Type hints
+typing-extensions>=4.5.0
+
+# MLX (Apple's Machine Learning framework)
+mlx>=0.0.9
+
+# Note: We intentionally do NOT include:
+# - whisperx (has MPS compatibility issues with large models)
+# - faster-whisper (doesn't support MPS)
+# - insanely-fast-whisper (memory issues on Apple Silicon)

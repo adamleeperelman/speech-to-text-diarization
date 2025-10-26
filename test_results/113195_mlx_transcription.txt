@@ -1,0 +1,504 @@
+======================================================================
+MLX-Whisper Speech-to-Text with Speaker Diarization
+Apple Silicon M4 Optimized
+======================================================================
+
+File: 113195.wav
+Duration: 454.34s (7.57min)
+Model: mlx-whisper-mlx-community/whisper-large-v3-mlx
+Quantization: int8
+Framework: MLX (Apple Silicon)
+Language: en
+Speakers: 2 (SPEAKER_00, SPEAKER_01)
+Segments: 159
+Processing time: 114.35s
+Speed: 4.0x realtime
+Timestamp: 2025-10-26T10:09:52.854274
+
+======================================================================
+Full Transcription
+======================================================================
+
+Hello? Good day, Chris. This is Ron. How are you doing, my man? Good, and you, Ron? I'm doing great. Is that a good time to talk, or are you around by any chance? Mate, I've got quarter past. I've got ten minutes, then I'm going for that interview that they postponed on Friday. Ah, okay, okay, okay. No worries. I just want to double-check with you one thing, okay? So we're not having a long conversation now. You wrote me that you have 64,000 US inside Binance and 50,000 Australian dollars inside SwiftX, right? Yes. But it should be wrong. I mean, you should have more than that. In where? You need to have more... I transferred on Friday, Saturday and Sunday. 48, 48 and 48 over. Okay, and before that we transfer as well, like 50. So you need to have like 200,000 Australian dollars inside Binance. And 70 grand around... even more right now because the crypto market skyrocketed high. So I need to have like 80 around inside SwiftX. That's why it doesn't make sense. And I wanted to ring you to double-check. Are you able to connect with me? Yeah, for like one, two minutes. Just to double-check that everything is okay. Alright. We are standing in a very good time. I don't know if you follow whatever happened in the crypto market. It just skyrocketed in high quite a lot. We had massive news that happens and comes from Trump. We're not going to confuse you before your interview because I wonder if you will be prepared and fully on the interview. And I will share with you that later on tonight. But let's just double-check and making sure that everything is in the right place. I don't want that... I don't know if you will have any hacking or anything like that or someone took money from the exchange. Okay. And security code is CO2005. Oh, sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Yeah, and sign in, yeah. That's James. Yeah. Yeah. Depends to the best of us. Dashboard. Okay. Overall performance, 4,301. Can I take over real quick? Yep. One second. So we see you have more than 50. You wrote that you have 50, mate. Yeah, there's 50 days. The others... Ah, no. No, I was talking about the overall portfolio, my man. Not about the amount of... Ah. All right. I got you. But remember there's other stuff that we sit on triggers? Yeah, yeah. Can you just approve my request? I asked you about the balance because the crypto market skyrocketed high over the weekend. So you see, 7%, 7%, 8%, 6%. So I asked you about the balance to understand. Okay. What is the situation? So that's good. We have 50K outside the market. Yep. I will buy... I will buy a little bit more over here. Mm-hmm. Just check the triggers. Is that coming through the money? It will not be triggered. I mean, all the crypto markets skyrocketed high. There is no way that it will be triggered. Market is boiling, my man. So I wanted to share with you a few things, but I forgot that you have interview right now. So all good. Just spoke with you a little bit more crypto. Let's go over to wallet again. What about Trump? Trump, 8%, mate. Up. Yeah. See? Ethereum, 8%. XRP, 3%. 7% Solana. Bitcoin. Yeah. Okay. Go to... We finished with SwiftX for now. Go to Binance. Let me just double check that everything is correct over there. Yes, Binance. I already logged in. And I was looking at this. Also what? Ethereum. You already Ethereum on your SwiftX account. I bought with you Friday. Okay. I will take over. Take you to the right place. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. 7,000 Australian after all the fees that you paid just until now. Roughly around 3%. Just until now. Okay? More to come. I will share with you all the information later on today. We are probably going to make a big move as well on Trump coin. Trump is going to come with a big statement. So I will share that with you. We scheduled a call for 7 o'clock later on tonight. If you are around before, shoot me a text. Alright. I'll do that. Beautiful, my man. And good luck in the interview, my man. All the best. Thanks, Ron. Speak to you later then. Speak to you later. Bye, my mate. Yes, man. Bye.
+
+======================================================================
+Detailed Transcript with Speakers and Timestamps
+======================================================================
+
+[9.30s - 9.70s] SPEAKER_00:
+Hello?
+
+[10.76s - 13.32s] SPEAKER_01:
+Good day, Chris. This is Ron. How are you doing, my man?
+
+[14.06s - 14.90s] SPEAKER_00:
+Good, and you, Ron?
+
+[15.94s - 20.06s] SPEAKER_01:
+I'm doing great. Is that a good time to talk, or are you around by any chance?
+
+[21.08s - 28.46s] SPEAKER_00:
+Mate, I've got quarter past. I've got ten minutes, then I'm going for that interview that they postponed on Friday.
+
+[28.46s - 34.74s] SPEAKER_01:
+Ah, okay, okay, okay. No worries. I just want to double-check with you one thing, okay?
+
+[34.90s - 36.74s] SPEAKER_01:
+So we're not having a long conversation now.
+
+[37.04s - 43.64s] SPEAKER_01:
+You wrote me that you have 64,000 US inside Binance and 50,000 Australian dollars inside SwiftX, right?
+
+[45.06s - 45.54s] SPEAKER_01:
+Yes.
+
+[46.58s - 50.40s] SPEAKER_01:
+But it should be wrong. I mean, you should have more than that.
+
+[52.18s - 52.96s] SPEAKER_00:
+In where?
+
+[54.06s - 55.16s] SPEAKER_00:
+You need to have more...
+
+[55.16s - 57.84s] SPEAKER_00:
+I transferred on Friday, Saturday and Sunday.
+
+[58.82s - 60.70s] SPEAKER_00:
+48, 48 and 48 over.
+
+[62.32s - 71.14s] SPEAKER_01:
+Okay, and before that we transfer as well, like 50. So you need to have like 200,000 Australian dollars inside Binance.
+
+[71.44s - 78.14s] SPEAKER_01:
+And 70 grand around... even more right now because the crypto market skyrocketed high.
+
+[78.52s - 83.60s] SPEAKER_01:
+So I need to have like 80 around inside SwiftX. That's why it doesn't make sense.
+
+[83.80s - 88.00s] SPEAKER_01:
+And I wanted to ring you to double-check. Are you able to connect with me?
+
+[88.46s - 91.94s] SPEAKER_01:
+Yeah, for like one, two minutes. Just to double-check that everything is okay.
+
+[93.28s - 93.70s] SPEAKER_01:
+Alright.
+
+[96.62s - 101.30s] SPEAKER_01:
+We are standing in a very good time. I don't know if you follow whatever happened in the crypto market.
+
+[101.44s - 104.26s] SPEAKER_01:
+It just skyrocketed in high quite a lot.
+
+[104.76s - 107.86s] SPEAKER_01:
+We had massive news that happens and comes from Trump.
+
+[108.22s - 116.10s] SPEAKER_01:
+We're not going to confuse you before your interview because I wonder if you will be prepared and fully on the interview.
+
+[116.18s - 117.86s] SPEAKER_01:
+And I will share with you that later on tonight.
+
+[119.12s - 123.60s] SPEAKER_01:
+But let's just double-check and making sure that everything is in the right place.
+
+[123.74s - 128.70s] SPEAKER_01:
+I don't want that... I don't know if you will have any hacking or anything like that or someone took money from the exchange.
+
+[130.20s - 130.66s] SPEAKER_00:
+Okay.
+
+[142.92s - 146.48s] SPEAKER_01:
+And security code is CO2005.
+
+[151.42s - 154.20s] SPEAKER_00:
+Oh, sorry.
+
+[154.70s - 154.78s] SPEAKER_00:
+Oh sorry.
+
+[157.96s - 158.96s] SPEAKER_00:
+Oh sorry.
+
+[158.96s - 163.10s] SPEAKER_00:
+Oh sorry.
+
+[163.10s - 163.18s] SPEAKER_00:
+Oh sorry.
+
+[163.94s - 164.14s] SPEAKER_00:
+Oh sorry.
+
+[164.96s - 165.12s] SPEAKER_00:
+Oh sorry.
+
+[165.94s - 166.06s] SPEAKER_00:
+Oh sorry.
+
+[166.16s - 166.28s] SPEAKER_00:
+Oh sorry.
+
+[166.28s - 166.34s] SPEAKER_00:
+Oh sorry.
+
+[166.38s - 166.50s] SPEAKER_00:
+Oh sorry.
+
+[166.50s - 167.54s] SPEAKER_00:
+Oh sorry.
+
+[167.78s - 168.30s] SPEAKER_00:
+Oh sorry.
+
+[168.30s - 168.68s] SPEAKER_00:
+Oh sorry.
+
+[168.80s - 169.48s] SPEAKER_00:
+Oh sorry.
+
+[169.82s - 170.38s] SPEAKER_00:
+Oh sorry.
+
+[171.00s - 171.76s] SPEAKER_00:
+Oh sorry.
+
+[172.30s - 173.02s] SPEAKER_00:
+Oh sorry.
+
+[189.94s - 191.24s] SPEAKER_01:
+Yeah, and sign in, yeah.
+
+[211.64s - 212.22s] SPEAKER_01:
+That's James.
+
+[213.20s - 213.60s] SPEAKER_00:
+Yeah.
+
+[214.38s - 214.78s] SPEAKER_00:
+Yeah.
+
+[215.60s - 216.82s] SPEAKER_01:
+Depends to the best of us.
+
+[224.42s - 224.82s] SPEAKER_00:
+Dashboard.
+
+[231.78s - 232.18s] SPEAKER_01:
+Okay.
+
+[233.34s - 236.22s] SPEAKER_01:
+Overall performance, 4,301.
+
+[242.62s - 244.28s] SPEAKER_01:
+Can I take over real quick?
+
+[245.28s - 245.72s] SPEAKER_00:
+Yep.
+
+[247.38s - 248.20s] SPEAKER_01:
+One second.
+
+[250.04s - 251.92s] SPEAKER_01:
+So we see you have more than 50.
+
+[252.10s - 253.54s] SPEAKER_01:
+You wrote that you have 50, mate.
+
+[255.26s - 256.56s] SPEAKER_00:
+Yeah, there's 50 days.
+
+[256.74s - 257.48s] SPEAKER_01:
+The others...
+
+[257.48s - 258.10s] SPEAKER_00:
+Ah, no.
+
+[258.56s - 261.38s] SPEAKER_01:
+No, I was talking about the overall portfolio, my man.
+
+[261.50s - 262.76s] SPEAKER_01:
+Not about the amount of...
+
+[262.76s - 262.82s] SPEAKER_01:
+Ah.
+
+[263.02s - 263.98s] SPEAKER_00:
+All right.
+
+[265.68s - 266.30s] SPEAKER_00:
+I got you.
+
+[267.34s - 272.22s] SPEAKER_00:
+But remember there's other stuff that we sit on triggers?
+
+[272.92s - 273.72s] SPEAKER_01:
+Yeah, yeah.
+
+[274.16s - 276.12s] SPEAKER_01:
+Can you just approve my request?
+
+[280.82s - 286.34s] SPEAKER_01:
+I asked you about the balance because the crypto market skyrocketed high over the weekend.
+
+[286.66s - 290.16s] SPEAKER_01:
+So you see, 7%, 7%, 8%, 6%.
+
+[290.16s - 292.50s] SPEAKER_01:
+So I asked you about the balance to understand.
+
+[292.60s - 293.00s] SPEAKER_01:
+Okay.
+
+[293.02s - 293.82s] SPEAKER_01:
+What is the situation?
+
+[293.96s - 294.52s] SPEAKER_01:
+So that's good.
+
+[294.68s - 296.66s] SPEAKER_01:
+We have 50K outside the market.
+
+[297.78s - 298.26s] SPEAKER_01:
+Yep.
+
+[298.54s - 299.96s] SPEAKER_01:
+I will buy...
+
+[301.52s - 304.82s] SPEAKER_01:
+I will buy a little bit more over here.
+
+[306.12s - 306.88s] SPEAKER_01:
+Mm-hmm.
+
+[309.30s - 310.66s] SPEAKER_00:
+Just check the triggers.
+
+[310.72s - 312.70s] SPEAKER_00:
+Is that coming through the money?
+
+[313.72s - 315.06s] SPEAKER_01:
+It will not be triggered.
+
+[315.18s - 317.68s] SPEAKER_01:
+I mean, all the crypto markets skyrocketed high.
+
+[317.82s - 322.32s] SPEAKER_01:
+There is no way that it will be triggered.
+
+[322.32s - 324.06s] SPEAKER_01:
+Market is boiling, my man.
+
+[324.14s - 328.42s] SPEAKER_01:
+So I wanted to share with you a few things, but I forgot that you have interview right now.
+
+[328.58s - 329.16s] SPEAKER_01:
+So all good.
+
+[329.42s - 331.48s] SPEAKER_01:
+Just spoke with you a little bit more crypto.
+
+[333.80s - 335.30s] SPEAKER_01:
+Let's go over to wallet again.
+
+[337.50s - 338.58s] SPEAKER_00:
+What about Trump?
+
+[340.44s - 341.64s] SPEAKER_01:
+Trump, 8%, mate.
+
+[342.00s - 342.46s] SPEAKER_00:
+Up.
+
+[342.88s - 343.34s] SPEAKER_00:
+Yeah.
+
+[343.82s - 344.28s] SPEAKER_01:
+See?
+
+[345.46s - 346.38s] SPEAKER_01:
+Ethereum, 8%.
+
+[348.06s - 348.98s] SPEAKER_01:
+XRP, 3%.
+
+[348.98s - 350.48s] SPEAKER_01:
+7% Solana.
+
+[351.24s - 351.70s] SPEAKER_01:
+Bitcoin.
+
+[352.32s - 352.44s] SPEAKER_01:
+Yeah.
+
+[352.44s - 352.92s] SPEAKER_01:
+Okay.
+
+[353.72s - 354.76s] SPEAKER_01:
+Go to...
+
+[355.46s - 357.06s] SPEAKER_01:
+We finished with SwiftX for now.
+
+[357.58s - 358.86s] SPEAKER_01:
+Go to Binance.
+
+[358.86s - 361.48s] SPEAKER_01:
+Let me just double check that everything is correct over there.
+
+[363.04s - 364.08s] SPEAKER_00:
+Yes, Binance.
+
+[364.12s - 365.52s] SPEAKER_00:
+I already logged in.
+
+[365.60s - 366.80s] SPEAKER_00:
+And I was looking at this.
+
+[366.92s - 368.30s] SPEAKER_00:
+Also what?
+
+[369.40s - 369.92s] SPEAKER_01:
+Ethereum.
+
+[370.16s - 374.30s] SPEAKER_01:
+You already Ethereum on your SwiftX account.
+
+[375.28s - 376.72s] SPEAKER_01:
+I bought with you Friday.
+
+[378.54s - 379.06s] SPEAKER_01:
+Okay.
+
+[379.24s - 380.40s] SPEAKER_01:
+I will take over.
+
+[380.58s - 381.74s] SPEAKER_01:
+Take you to the right place.
+
+[383.30s - 384.56s] SPEAKER_00:
+Oh shit.
+
+[384.56s - 385.14s] SPEAKER_00:
+Oh shit.
+
+[385.14s - 385.26s] SPEAKER_00:
+Oh shit.
+
+[390.48s - 391.62s] SPEAKER_00:
+Oh shit.
+
+[393.08s - 394.42s] SPEAKER_00:
+Oh shit.
+
+[395.80s - 396.56s] SPEAKER_00:
+Oh shit.
+
+[397.30s - 397.64s] SPEAKER_00:
+Oh shit.
+
+[399.42s - 400.38s] SPEAKER_01:
+Oh shit.
+
+[400.44s - 400.76s] SPEAKER_01:
+Oh shit.
+
+[400.76s - 400.78s] SPEAKER_01:
+Oh shit.
+
+[400.86s - 400.96s] SPEAKER_01:
+Oh shit.
+
+[400.96s - 401.84s] SPEAKER_01:
+Oh shit.
+
+[402.38s - 402.64s] SPEAKER_01:
+Oh shit.
+
+[402.94s - 403.26s] SPEAKER_01:
+Oh shit.
+
+[403.38s - 403.52s] SPEAKER_01:
+Oh shit.
+
+[404.36s - 405.80s] SPEAKER_01:
+Oh shit.
+
+[406.20s - 407.08s] SPEAKER_01:
+Oh shit.
+
+[407.42s - 409.28s] SPEAKER_01:
+Oh shit.
+
+[409.68s - 409.84s] SPEAKER_01:
+Oh shit.
+
+[410.48s - 411.76s] SPEAKER_01:
+Oh shit.
+
+[411.76s - 413.82s] SPEAKER_01:
+7,000 Australian after all the fees
+
+[413.82s - 415.38s] SPEAKER_01:
+that you paid just until now.
+
+[415.88s - 417.36s] SPEAKER_01:
+Roughly around 3%.
+
+[418.78s - 419.82s] SPEAKER_01:
+Just until now.
+
+[420.64s - 421.08s] SPEAKER_01:
+Okay?
+
+[422.02s - 423.82s] SPEAKER_01:
+More to come. I will share with you all
+
+[423.82s - 425.00s] SPEAKER_01:
+the information later on today.
+
+[425.36s - 427.86s] SPEAKER_01:
+We are probably going to make a big move
+
+[427.86s - 429.80s] SPEAKER_01:
+as well on Trump coin.
+
+[429.96s - 432.02s] SPEAKER_01:
+Trump is going to come with a big statement.
+
+[432.24s - 433.52s] SPEAKER_01:
+So I will share that with you.
+
+[434.20s - 435.72s] SPEAKER_01:
+We scheduled a call for
+
+[436.80s - 437.68s] SPEAKER_01:
+7 o'clock
+
+[437.68s - 438.54s] SPEAKER_01:
+later on tonight.
+
+[440.44s - 441.62s] SPEAKER_01:
+If you are around
+
+[441.62s - 442.82s] SPEAKER_01:
+before, shoot me a text.
+
+[443.64s - 445.44s] SPEAKER_01:
+Alright. I'll do that.
+
+[445.94s - 447.46s] SPEAKER_01:
+Beautiful, my man. And good luck
+
+[447.46s - 449.08s] SPEAKER_01:
+in the interview, my man. All the best.
+
+[449.60s - 451.56s] SPEAKER_00:
+Thanks, Ron. Speak to you later then.
+
+[451.80s - 453.20s] SPEAKER_01:
+Speak to you later. Bye, my mate.
+
+[453.40s - 454.34s] SPEAKER_00:
+Yes, man. Bye.
+

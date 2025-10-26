@@ -1,0 +1,6268 @@
+{
+  "filename": "113195.wav",
+  "filepath": "/Users/adamleeperelman/Documents/AI/test/113195.wav",
+  "duration": 454.34,
+  "processing_time": 114.35433030128479,
+  "real_time_factor": 0.25169329203082447,
+  "timestamp": "2025-10-26T10:09:52.854274",
+  "model": "mlx-whisper-mlx-community/whisper-large-v3-mlx",
+  "quantization": "int8",
+  "framework": "MLX (Apple Silicon)",
+  "diarization_device": "mps",
+  "language": "en",
+  "segments": [
+    {
+      "start": 9.3,
+      "end": 9.7,
+      "text": "Hello?",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Hello?",
+          "start": 9.3,
+          "end": 9.7,
+          "probability": 0.786160409450531
+        }
+      ]
+    },
+    {
+      "start": 10.760000000000002,
+      "end": 13.32,
+      "text": "Good day, Chris. This is Ron. How are you doing, my man?",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Good",
+          "start": 10.760000000000002,
+          "end": 11.16,
+          "probability": 0.8663005828857422
+        },
+        {
+          "word": " day,",
+          "start": 11.16,
+          "end": 11.34,
+          "probability": 0.9873658418655396
+        },
+        {
+          "word": " Chris.",
+          "start": 11.38,
+          "end": 11.54,
+          "probability": 0.9909510612487793
+        },
+        {
+          "word": " This",
+          "start": 11.68,
+          "end": 11.98,
+          "probability": 0.9957342743873596
+        },
+        {
+          "word": " is",
+          "start": 11.98,
+          "end": 12.1,
+          "probability": 0.9977249503135681
+        },
+        {
+          "word": " Ron.",
+          "start": 12.1,
+          "end": 12.3,
+          "probability": 0.9953421354293823
+        },
+        {
+          "word": " How",
+          "start": 12.4,
+          "end": 12.52,
+          "probability": 0.999147891998291
+        },
+        {
+          "word": " are",
+          "start": 12.52,
+          "end": 12.64,
+          "probability": 0.9992882609367371
+        },
+        {
+          "word": " you",
+          "start": 12.64,
+          "end": 12.76,
+          "probability": 0.9996601343154907
+        },
+        {
+          "word": " doing,",
+          "start": 12.76,
+          "end": 12.92,
+          "probability": 0.9991662502288818
+        },
+        {
+          "word": " my",
+          "start": 12.96,
+          "end": 13.08,
+          "probability": 0.9991833567619324
+        },
+        {
+          "word": " man?",
+          "start": 13.08,
+          "end": 13.32,
+          "probability": 0.9998342990875244
+        }
+      ]
+    },
+    {
+      "start": 14.060000000000002,
+      "end": 14.9,
+      "text": "Good, and you, Ron?",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Good,",
+          "start": 14.060000000000002,
+          "end": 14.46,
+          "probability": 0.9890493154525757
+        },
+        {
+          "word": " and",
+          "start": 14.48,
+          "end": 14.6,
+          "probability": 0.9785393476486206
+        },
+        {
+          "word": " you,",
+          "start": 14.6,
+          "end": 14.7,
+          "probability": 0.999760091304779
+        },
+        {
+          "word": " Ron?",
+          "start": 14.72,
+          "end": 14.9,
+          "probability": 0.9998680353164673
+        }
+      ]
+    },
+    {
+      "start": 15.940000000000001,
+      "end": 20.06,
+      "text": "I'm doing great. Is that a good time to talk, or are you around by any chance?",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " I'm",
+          "start": 15.940000000000001,
+          "end": 16.34,
+          "probability": 0.992646336555481
+        },
+        {
+          "word": " doing",
+          "start": 16.34,
+          "end": 16.5,
+          "probability": 0.999420166015625
+        },
+        {
+          "word": " great.",
+          "start": 16.5,
+          "end": 16.94,
+          "probability": 0.9995086193084717
+        },
+        {
+          "word": " Is",
+          "start": 17.36,
+          "end": 17.76,
+          "probability": 0.9988433122634888
+        },
+        {
+          "word": " that",
+          "start": 17.76,
+          "end": 17.94,
+          "probability": 0.9979250431060791
+        },
+        {
+          "word": " a",
+          "start": 17.94,
+          "end": 18.1,
+          "probability": 0.9999755620956421
+        },
+        {
+          "word": " good",
+          "start": 18.1,
+          "end": 18.24,
+          "probability": 0.9999773502349854
+        },
+        {
+          "word": " time",
+          "start": 18.24,
+          "end": 18.44,
+          "probability": 0.999971866607666
+        },
+        {
+          "word": " to",
+          "start": 18.44,
+          "end": 18.56,
+          "probability": 0.9999603033065796
+        },
+        {
+          "word": " talk,",
+          "start": 18.56,
+          "end": 18.86,
+          "probability": 0.9999462366104126
+        },
+        {
+          "word": " or",
+          "start": 18.96,
+          "end": 19.08,
+          "probability": 0.9971795082092285
+        },
+        {
+          "word": " are",
+          "start": 19.08,
+          "end": 19.18,
+          "probability": 0.9881552457809448
+        },
+        {
+          "word": " you",
+          "start": 19.18,
+          "end": 19.32,
+          "probability": 0.9999673366546631
+        },
+        {
+          "word": " around",
+          "start": 19.32,
+          "end": 19.54,
+          "probability": 0.8803576827049255
+        },
+        {
+          "word": " by",
+          "start": 19.54,
+          "end": 19.7,
+          "probability": 0.9947546720504761
+        },
+        {
+          "word": " any",
+          "start": 19.7,
+          "end": 19.84,
+          "probability": 0.999849796295166
+        },
+        {
+          "word": " chance?",
+          "start": 19.84,
+          "end": 20.06,
+          "probability": 0.9999794960021973
+        }
+      ]
+    },
+    {
+      "start": 21.080000000000002,
+      "end": 28.46,
+      "text": "Mate, I've got quarter past. I've got ten minutes, then I'm going for that interview that they postponed on Friday.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Mate,",
+          "start": 21.080000000000002,
+          "end": 21.48,
+          "probability": 0.9989390969276428
+        },
+        {
+          "word": " I've",
+          "start": 21.56,
+          "end": 21.74,
+          "probability": 0.996618926525116
+        },
+        {
+          "word": " got",
+          "start": 21.74,
+          "end": 21.96,
+          "probability": 0.9992585778236389
+        },
+        {
+          "word": " quarter",
+          "start": 21.96,
+          "end": 23.18,
+          "probability": 0.7974455952644348
+        },
+        {
+          "word": " past.",
+          "start": 23.18,
+          "end": 23.52,
+          "probability": 0.9965445399284363
+        },
+        {
+          "word": " I've",
+          "start": 24.24,
+          "end": 24.64,
+          "probability": 0.999943733215332
+        },
+        {
+          "word": " got",
+          "start": 24.64,
+          "end": 24.76,
+          "probability": 0.9999582767486572
+        },
+        {
+          "word": " ten",
+          "start": 24.76,
+          "end": 25.04,
+          "probability": 0.6868748664855957
+        },
+        {
+          "word": " minutes,",
+          "start": 25.04,
+          "end": 25.36,
+          "probability": 0.9999648332595825
+        },
+        {
+          "word": " then",
+          "start": 25.48,
+          "end": 25.64,
+          "probability": 0.9902111887931824
+        },
+        {
+          "word": " I'm",
+          "start": 25.64,
+          "end": 25.86,
+          "probability": 0.9999265670776367
+        },
+        {
+          "word": " going",
+          "start": 25.86,
+          "end": 26.1,
+          "probability": 0.9999440908432007
+        },
+        {
+          "word": " for",
+          "start": 26.1,
+          "end": 26.36,
+          "probability": 0.9998078942298889
+        },
+        {
+          "word": " that",
+          "start": 26.36,
+          "end": 26.56,
+          "probability": 0.9999668598175049
+        },
+        {
+          "word": " interview",
+          "start": 26.56,
+          "end": 26.92,
+          "probability": 0.9999697208404541
+        },
+        {
+          "word": " that",
+          "start": 26.92,
+          "end": 27.28,
+          "probability": 0.9987475872039795
+        },
+        {
+          "word": " they",
+          "start": 27.28,
+          "end": 27.46,
+          "probability": 0.9773911237716675
+        },
+        {
+          "word": " postponed",
+          "start": 27.46,
+          "end": 27.76,
+          "probability": 0.9951874017715454
+        },
+        {
+          "word": " on",
+          "start": 27.76,
+          "end": 28.1,
+          "probability": 0.9996703863143921
+        },
+        {
+          "word": " Friday.",
+          "start": 28.1,
+          "end": 28.46,
+          "probability": 0.9978972673416138
+        }
+      ]
+    },
+    {
+      "start": 28.46,
+      "end": 34.74,
+      "text": "Ah, okay, okay, okay. No worries. I just want to double-check with you one thing, okay?",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Ah,",
+          "start": 28.46,
+          "end": 29.32,
+          "probability": 0.2622246742248535
+        },
+        {
+          "word": " okay,",
+          "start": 29.44,
+          "end": 29.68,
+          "probability": 0.6365860104560852
+        },
+        {
+          "word": " okay,",
+          "start": 29.76,
+          "end": 29.92,
+          "probability": 0.9974594712257385
+        },
+        {
+          "word": " okay.",
+          "start": 30.0,
+          "end": 30.12,
+          "probability": 0.9970832467079163
+        },
+        {
+          "word": " No",
+          "start": 30.24,
+          "end": 30.42,
+          "probability": 0.9984301924705505
+        },
+        {
+          "word": " worries.",
+          "start": 30.42,
+          "end": 30.8,
+          "probability": 0.9997966885566711
+        },
+        {
+          "word": " I",
+          "start": 31.02,
+          "end": 31.3,
+          "probability": 0.9105350375175476
+        },
+        {
+          "word": " just",
+          "start": 31.3,
+          "end": 31.62,
+          "probability": 0.9994390606880188
+        },
+        {
+          "word": " want",
+          "start": 31.62,
+          "end": 31.82,
+          "probability": 0.9980205297470093
+        },
+        {
+          "word": " to",
+          "start": 31.82,
+          "end": 32.02,
+          "probability": 0.9998582601547241
+        },
+        {
+          "word": " double",
+          "start": 32.02,
+          "end": 32.54,
+          "probability": 0.2947559356689453
+        },
+        {
+          "word": "-check",
+          "start": 32.54,
+          "end": 33.04,
+          "probability": 0.7545866966247559
+        },
+        {
+          "word": " with",
+          "start": 33.04,
+          "end": 33.28,
+          "probability": 0.9951489567756653
+        },
+        {
+          "word": " you",
+          "start": 33.28,
+          "end": 33.42,
+          "probability": 0.9997195601463318
+        },
+        {
+          "word": " one",
+          "start": 33.42,
+          "end": 33.62,
+          "probability": 0.9571868777275085
+        },
+        {
+          "word": " thing,",
+          "start": 33.62,
+          "end": 33.98,
+          "probability": 0.9997772574424744
+        },
+        {
+          "word": " okay?",
+          "start": 34.18,
+          "end": 34.74,
+          "probability": 0.9638785719871521
+        }
+      ]
+    },
+    {
+      "start": 34.9,
+      "end": 36.74,
+      "text": "So we're not having a long conversation now.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " So",
+          "start": 34.9,
+          "end": 35.12,
+          "probability": 0.9639620780944824
+        },
+        {
+          "word": " we're",
+          "start": 35.12,
+          "end": 35.3,
+          "probability": 0.5586205720901489
+        },
+        {
+          "word": " not",
+          "start": 35.3,
+          "end": 35.54,
+          "probability": 0.9975929856300354
+        },
+        {
+          "word": " having",
+          "start": 35.54,
+          "end": 35.74,
+          "probability": 0.8828558921813965
+        },
+        {
+          "word": " a",
+          "start": 35.74,
+          "end": 35.86,
+          "probability": 0.999458372592926
+        },
+        {
+          "word": " long",
+          "start": 35.86,
+          "end": 36.0,
+          "probability": 0.9995455145835876
+        },
+        {
+          "word": " conversation",
+          "start": 36.0,
+          "end": 36.4,
+          "probability": 0.9998136162757874
+        },
+        {
+          "word": " now.",
+          "start": 36.4,
+          "end": 36.74,
+          "probability": 0.9956934452056885
+        }
+      ]
+    },
+    {
+      "start": 37.04,
+      "end": 43.64,
+      "text": "You wrote me that you have 64,000 US inside Binance and 50,000 Australian dollars inside SwiftX, right?",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " You",
+          "start": 37.04,
+          "end": 37.52,
+          "probability": 0.9986311793327332
+        },
+        {
+          "word": " wrote",
+          "start": 37.52,
+          "end": 37.72,
+          "probability": 0.5505330562591553
+        },
+        {
+          "word": " me",
+          "start": 37.72,
+          "end": 37.88,
+          "probability": 0.8868775963783264
+        },
+        {
+          "word": " that",
+          "start": 37.88,
+          "end": 38.02,
+          "probability": 0.9987939596176147
+        },
+        {
+          "word": " you",
+          "start": 38.02,
+          "end": 38.18,
+          "probability": 0.9994825124740601
+        },
+        {
+          "word": " have",
+          "start": 38.18,
+          "end": 38.32,
+          "probability": 0.998925507068634
+        },
+        {
+          "word": " 64",
+          "start": 38.32,
+          "end": 38.72,
+          "probability": 0.7354822158813477
+        },
+        {
+          "word": ",000",
+          "start": 38.72,
+          "end": 39.32,
+          "probability": 0.9957234263420105
+        },
+        {
+          "word": " US",
+          "start": 39.32,
+          "end": 39.54,
+          "probability": 0.8889489769935608
+        },
+        {
+          "word": " inside",
+          "start": 39.54,
+          "end": 40.02,
+          "probability": 0.9800730347633362
+        },
+        {
+          "word": " Binance",
+          "start": 40.02,
+          "end": 40.48,
+          "probability": 0.9774630665779114
+        },
+        {
+          "word": " and",
+          "start": 40.48,
+          "end": 40.6,
+          "probability": 0.6750882863998413
+        },
+        {
+          "word": " 50",
+          "start": 40.6,
+          "end": 40.88,
+          "probability": 0.8821636438369751
+        },
+        {
+          "word": ",000",
+          "start": 40.88,
+          "end": 41.3,
+          "probability": 0.9998205900192261
+        },
+        {
+          "word": " Australian",
+          "start": 41.3,
+          "end": 41.66,
+          "probability": 0.9978552460670471
+        },
+        {
+          "word": " dollars",
+          "start": 41.66,
+          "end": 41.98,
+          "probability": 0.9282124042510986
+        },
+        {
+          "word": " inside",
+          "start": 41.98,
+          "end": 42.34,
+          "probability": 0.9970948696136475
+        },
+        {
+          "word": " SwiftX,",
+          "start": 42.34,
+          "end": 42.94,
+          "probability": 0.6879209280014038
+        },
+        {
+          "word": " right?",
+          "start": 43.08,
+          "end": 43.64,
+          "probability": 0.9997321963310242
+        }
+      ]
+    },
+    {
+      "start": 45.06,
+      "end": 45.54,
+      "text": "Yes.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Yes.",
+          "start": 45.06,
+          "end": 45.54,
+          "probability": 0.9945436716079712
+        }
+      ]
+    },
+    {
+      "start": 46.580000000000005,
+      "end": 50.4,
+      "text": "But it should be wrong. I mean, you should have more than that.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " But",
+          "start": 46.580000000000005,
+          "end": 47.06,
+          "probability": 0.9952612519264221
+        },
+        {
+          "word": " it",
+          "start": 47.06,
+          "end": 47.32,
+          "probability": 0.99000483751297
+        },
+        {
+          "word": " should",
+          "start": 47.32,
+          "end": 47.54,
+          "probability": 0.9977682828903198
+        },
+        {
+          "word": " be",
+          "start": 47.54,
+          "end": 47.82,
+          "probability": 0.9996601343154907
+        },
+        {
+          "word": " wrong.",
+          "start": 47.82,
+          "end": 48.22,
+          "probability": 0.988450288772583
+        },
+        {
+          "word": " I",
+          "start": 48.46,
+          "end": 48.78,
+          "probability": 0.9981271624565125
+        },
+        {
+          "word": " mean,",
+          "start": 48.78,
+          "end": 48.94,
+          "probability": 0.9998787641525269
+        },
+        {
+          "word": " you",
+          "start": 48.96,
+          "end": 49.06,
+          "probability": 0.9996566772460938
+        },
+        {
+          "word": " should",
+          "start": 49.06,
+          "end": 49.22,
+          "probability": 0.9993029832839966
+        },
+        {
+          "word": " have",
+          "start": 49.22,
+          "end": 49.4,
+          "probability": 0.9996695518493652
+        },
+        {
+          "word": " more",
+          "start": 49.4,
+          "end": 50.04,
+          "probability": 0.9989312291145325
+        },
+        {
+          "word": " than",
+          "start": 50.04,
+          "end": 50.18,
+          "probability": 0.9997557997703552
+        },
+        {
+          "word": " that.",
+          "start": 50.18,
+          "end": 50.4,
+          "probability": 0.9999547004699707
+        }
+      ]
+    },
+    {
+      "start": 52.18,
+      "end": 52.96,
+      "text": "In where?",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " In",
+          "start": 52.18,
+          "end": 52.66,
+          "probability": 0.9972929358482361
+        },
+        {
+          "word": " where?",
+          "start": 52.66,
+          "end": 52.96,
+          "probability": 0.5415971875190735
+        }
+      ]
+    },
+    {
+      "start": 54.06,
+      "end": 55.16,
+      "text": "You need to have more...",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " You",
+          "start": 54.06,
+          "end": 54.54,
+          "probability": 0.776907205581665
+        },
+        {
+          "word": " need",
+          "start": 54.54,
+          "end": 54.74,
+          "probability": 0.999796450138092
+        },
+        {
+          "word": " to",
+          "start": 54.74,
+          "end": 54.86,
+          "probability": 0.9998370409011841
+        },
+        {
+          "word": " have",
+          "start": 54.86,
+          "end": 54.98,
+          "probability": 0.9997171759605408
+        },
+        {
+          "word": " more...",
+          "start": 54.98,
+          "end": 55.16,
+          "probability": 0.7560956478118896
+        }
+      ]
+    },
+    {
+      "start": 55.16,
+      "end": 57.84,
+      "text": "I transferred on Friday, Saturday and Sunday.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " I",
+          "start": 55.16,
+          "end": 55.68,
+          "probability": 0.8467324376106262
+        },
+        {
+          "word": " transferred",
+          "start": 55.68,
+          "end": 55.68,
+          "probability": 0.6927089095115662
+        },
+        {
+          "word": " on",
+          "start": 55.68,
+          "end": 55.9,
+          "probability": 0.9076091051101685
+        },
+        {
+          "word": " Friday,",
+          "start": 55.9,
+          "end": 56.5,
+          "probability": 0.9967833757400513
+        },
+        {
+          "word": " Saturday",
+          "start": 56.7,
+          "end": 57.16,
+          "probability": 0.9998189806938171
+        },
+        {
+          "word": " and",
+          "start": 57.16,
+          "end": 57.42,
+          "probability": 0.7859258055686951
+        },
+        {
+          "word": " Sunday.",
+          "start": 57.42,
+          "end": 57.84,
+          "probability": 0.9998435974121094
+        }
+      ]
+    },
+    {
+      "start": 58.82,
+      "end": 60.7,
+      "text": "48, 48 and 48 over.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " 48,",
+          "start": 58.82,
+          "end": 59.26,
+          "probability": 0.566605806350708
+        },
+        {
+          "word": " 48",
+          "start": 59.4,
+          "end": 59.72,
+          "probability": 0.9866096377372742
+        },
+        {
+          "word": " and",
+          "start": 59.72,
+          "end": 60.02,
+          "probability": 0.664739727973938
+        },
+        {
+          "word": " 48",
+          "start": 60.02,
+          "end": 60.22,
+          "probability": 0.9969160556793213
+        },
+        {
+          "word": " over.",
+          "start": 60.22,
+          "end": 60.7,
+          "probability": 0.9792348146438599
+        }
+      ]
+    },
+    {
+      "start": 62.32000000000001,
+      "end": 71.14,
+      "text": "Okay, and before that we transfer as well, like 50. So you need to have like 200,000 Australian dollars inside Binance.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Okay,",
+          "start": 62.32000000000001,
+          "end": 62.760000000000005,
+          "probability": 0.8150741457939148
+        },
+        {
+          "word": " and",
+          "start": 62.760000000000005,
+          "end": 63.2,
+          "probability": 0.9931463599205017
+        },
+        {
+          "word": " before",
+          "start": 63.2,
+          "end": 63.46,
+          "probability": 0.9978376030921936
+        },
+        {
+          "word": " that",
+          "start": 63.46,
+          "end": 63.68,
+          "probability": 0.999170184135437
+        },
+        {
+          "word": " we",
+          "start": 63.68,
+          "end": 63.82,
+          "probability": 0.7887374758720398
+        },
+        {
+          "word": " transfer",
+          "start": 63.82,
+          "end": 64.2,
+          "probability": 0.9476705193519592
+        },
+        {
+          "word": " as",
+          "start": 64.2,
+          "end": 64.44,
+          "probability": 0.9855296015739441
+        },
+        {
+          "word": " well,",
+          "start": 64.44,
+          "end": 64.58,
+          "probability": 0.9989312291145325
+        },
+        {
+          "word": " like",
+          "start": 64.62,
+          "end": 64.78,
+          "probability": 0.9866614937782288
+        },
+        {
+          "word": " 50.",
+          "start": 64.78,
+          "end": 65.14,
+          "probability": 0.7566742897033691
+        },
+        {
+          "word": " So",
+          "start": 65.18,
+          "end": 65.38,
+          "probability": 0.991456925868988
+        },
+        {
+          "word": " you",
+          "start": 65.38,
+          "end": 65.56,
+          "probability": 0.8487990498542786
+        },
+        {
+          "word": " need",
+          "start": 65.56,
+          "end": 65.74,
+          "probability": 0.999624490737915
+        },
+        {
+          "word": " to",
+          "start": 65.74,
+          "end": 65.86,
+          "probability": 0.9997507929801941
+        },
+        {
+          "word": " have",
+          "start": 65.86,
+          "end": 65.96,
+          "probability": 0.9997772574424744
+        },
+        {
+          "word": " like",
+          "start": 65.96,
+          "end": 66.18,
+          "probability": 0.9466553926467896
+        },
+        {
+          "word": " 200",
+          "start": 66.18,
+          "end": 66.58,
+          "probability": 0.7615975737571716
+        },
+        {
+          "word": ",000",
+          "start": 66.58,
+          "end": 67.06,
+          "probability": 0.9931080341339111
+        },
+        {
+          "word": " Australian",
+          "start": 67.06,
+          "end": 67.36,
+          "probability": 0.9892639517784119
+        },
+        {
+          "word": " dollars",
+          "start": 67.36,
+          "end": 67.7,
+          "probability": 0.7977344989776611
+        },
+        {
+          "word": " inside",
+          "start": 67.7,
+          "end": 68.24,
+          "probability": 0.9905562996864319
+        },
+        {
+          "word": " Binance.",
+          "start": 68.24,
+          "end": 71.14,
+          "probability": 0.984294056892395
+        }
+      ]
+    },
+    {
+      "start": 71.44,
+      "end": 78.14,
+      "text": "And 70 grand around... even more right now because the crypto market skyrocketed high.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " And",
+          "start": 71.44,
+          "end": 71.88,
+          "probability": 0.9970636963844299
+        },
+        {
+          "word": " 70",
+          "start": 71.88,
+          "end": 73.12,
+          "probability": 0.9879889488220215
+        },
+        {
+          "word": " grand",
+          "start": 73.12,
+          "end": 73.58,
+          "probability": 0.9746675491333008
+        },
+        {
+          "word": " around...",
+          "start": 73.58,
+          "end": 74.26,
+          "probability": 0.4845435619354248
+        },
+        {
+          "word": " even",
+          "start": 74.26,
+          "end": 75.12,
+          "probability": 0.2602572441101074
+        },
+        {
+          "word": " more",
+          "start": 75.12,
+          "end": 75.52,
+          "probability": 0.9998360872268677
+        },
+        {
+          "word": " right",
+          "start": 75.52,
+          "end": 75.72,
+          "probability": 0.9974755644798279
+        },
+        {
+          "word": " now",
+          "start": 75.72,
+          "end": 75.96,
+          "probability": 0.9978185892105103
+        },
+        {
+          "word": " because",
+          "start": 75.96,
+          "end": 76.26,
+          "probability": 0.6543985605239868
+        },
+        {
+          "word": " the",
+          "start": 76.26,
+          "end": 76.48,
+          "probability": 0.9992688298225403
+        },
+        {
+          "word": " crypto",
+          "start": 76.48,
+          "end": 76.66,
+          "probability": 0.9775462746620178
+        },
+        {
+          "word": " market",
+          "start": 76.66,
+          "end": 76.94,
+          "probability": 0.9950234889984131
+        },
+        {
+          "word": " skyrocketed",
+          "start": 76.94,
+          "end": 77.96,
+          "probability": 0.9957118034362793
+        },
+        {
+          "word": " high.",
+          "start": 77.96,
+          "end": 78.14,
+          "probability": 0.9993878602981567
+        }
+      ]
+    },
+    {
+      "start": 78.52,
+      "end": 83.6,
+      "text": "So I need to have like 80 around inside SwiftX. That's why it doesn't make sense.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " So",
+          "start": 78.52,
+          "end": 78.96,
+          "probability": 0.45702794194221497
+        },
+        {
+          "word": " I",
+          "start": 78.96,
+          "end": 78.98,
+          "probability": 0.481039822101593
+        },
+        {
+          "word": " need",
+          "start": 78.98,
+          "end": 79.1,
+          "probability": 0.9999169111251831
+        },
+        {
+          "word": " to",
+          "start": 79.1,
+          "end": 79.2,
+          "probability": 0.9988335967063904
+        },
+        {
+          "word": " have",
+          "start": 79.2,
+          "end": 79.32,
+          "probability": 0.9998979568481445
+        },
+        {
+          "word": " like",
+          "start": 79.32,
+          "end": 79.54,
+          "probability": 0.9952136278152466
+        },
+        {
+          "word": " 80",
+          "start": 79.54,
+          "end": 80.0,
+          "probability": 0.9991675615310669
+        },
+        {
+          "word": " around",
+          "start": 80.0,
+          "end": 80.8,
+          "probability": 0.9973573088645935
+        },
+        {
+          "word": " inside",
+          "start": 80.8,
+          "end": 81.28,
+          "probability": 0.9851781725883484
+        },
+        {
+          "word": " SwiftX.",
+          "start": 81.28,
+          "end": 81.82,
+          "probability": 0.8235440850257874
+        },
+        {
+          "word": " That's",
+          "start": 82.26,
+          "end": 82.7,
+          "probability": 0.9970458745956421
+        },
+        {
+          "word": " why",
+          "start": 82.7,
+          "end": 82.72,
+          "probability": 0.9984695315361023
+        },
+        {
+          "word": " it",
+          "start": 82.72,
+          "end": 82.9,
+          "probability": 0.9997264742851257
+        },
+        {
+          "word": " doesn't",
+          "start": 82.9,
+          "end": 83.12,
+          "probability": 0.9999613761901855
+        },
+        {
+          "word": " make",
+          "start": 83.12,
+          "end": 83.3,
+          "probability": 0.9999350309371948
+        },
+        {
+          "word": " sense.",
+          "start": 83.3,
+          "end": 83.6,
+          "probability": 0.9998952150344849
+        }
+      ]
+    },
+    {
+      "start": 83.8,
+      "end": 88.0,
+      "text": "And I wanted to ring you to double-check. Are you able to connect with me?",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " And",
+          "start": 83.8,
+          "end": 84.24,
+          "probability": 0.9944252967834473
+        },
+        {
+          "word": " I",
+          "start": 84.24,
+          "end": 84.7,
+          "probability": 0.9994069337844849
+        },
+        {
+          "word": " wanted",
+          "start": 84.7,
+          "end": 85.08,
+          "probability": 0.9997633099555969
+        },
+        {
+          "word": " to",
+          "start": 85.08,
+          "end": 85.22,
+          "probability": 0.9993320107460022
+        },
+        {
+          "word": " ring",
+          "start": 85.22,
+          "end": 85.4,
+          "probability": 0.982946515083313
+        },
+        {
+          "word": " you",
+          "start": 85.4,
+          "end": 85.52,
+          "probability": 0.9993270635604858
+        },
+        {
+          "word": " to",
+          "start": 85.52,
+          "end": 85.64,
+          "probability": 0.9999010562896729
+        },
+        {
+          "word": " double",
+          "start": 85.64,
+          "end": 85.88,
+          "probability": 0.9999452829360962
+        },
+        {
+          "word": "-check.",
+          "start": 85.88,
+          "end": 86.08,
+          "probability": 0.5436020493507385
+        },
+        {
+          "word": " Are",
+          "start": 86.3,
+          "end": 86.74,
+          "probability": 0.9989381432533264
+        },
+        {
+          "word": " you",
+          "start": 86.74,
+          "end": 86.88,
+          "probability": 0.9999419450759888
+        },
+        {
+          "word": " able",
+          "start": 86.88,
+          "end": 87.08,
+          "probability": 0.9998553991317749
+        },
+        {
+          "word": " to",
+          "start": 87.08,
+          "end": 87.24,
+          "probability": 0.9999693632125854
+        },
+        {
+          "word": " connect",
+          "start": 87.24,
+          "end": 87.52,
+          "probability": 0.9997790455818176
+        },
+        {
+          "word": " with",
+          "start": 87.52,
+          "end": 87.76,
+          "probability": 0.9999198913574219
+        },
+        {
+          "word": " me?",
+          "start": 87.76,
+          "end": 88.0,
+          "probability": 0.999943733215332
+        }
+      ]
+    },
+    {
+      "start": 88.46,
+      "end": 91.94,
+      "text": "Yeah, for like one, two minutes. Just to double-check that everything is okay.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Yeah,",
+          "start": 88.46,
+          "end": 88.58,
+          "probability": 0.022322025150060654
+        },
+        {
+          "word": " for",
+          "start": 88.58,
+          "end": 88.58,
+          "probability": 0.3245970904827118
+        },
+        {
+          "word": " like",
+          "start": 88.58,
+          "end": 88.88,
+          "probability": 0.9285681843757629
+        },
+        {
+          "word": " one,",
+          "start": 88.88,
+          "end": 89.24,
+          "probability": 0.6633099913597107
+        },
+        {
+          "word": " two",
+          "start": 89.32,
+          "end": 89.48,
+          "probability": 0.9996445178985596
+        },
+        {
+          "word": " minutes.",
+          "start": 89.48,
+          "end": 89.76,
+          "probability": 0.9986465573310852
+        },
+        {
+          "word": " Just",
+          "start": 89.94,
+          "end": 90.36,
+          "probability": 0.9966250658035278
+        },
+        {
+          "word": " to",
+          "start": 90.36,
+          "end": 90.56,
+          "probability": 0.999370276927948
+        },
+        {
+          "word": " double",
+          "start": 90.56,
+          "end": 90.88,
+          "probability": 0.9997934699058533
+        },
+        {
+          "word": "-check",
+          "start": 90.88,
+          "end": 91.04,
+          "probability": 0.5415878891944885
+        },
+        {
+          "word": " that",
+          "start": 91.04,
+          "end": 91.24,
+          "probability": 0.99552321434021
+        },
+        {
+          "word": " everything",
+          "start": 91.24,
+          "end": 91.48,
+          "probability": 0.9988204836845398
+        },
+        {
+          "word": " is",
+          "start": 91.48,
+          "end": 91.68,
+          "probability": 0.9691546559333801
+        },
+        {
+          "word": " okay.",
+          "start": 91.68,
+          "end": 91.94,
+          "probability": 0.8580531477928162
+        }
+      ]
+    },
+    {
+      "start": 93.28,
+      "end": 93.7,
+      "text": "Alright.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Alright.",
+          "start": 93.28,
+          "end": 93.7,
+          "probability": 0.5578039288520813
+        }
+      ]
+    },
+    {
+      "start": 96.62,
+      "end": 101.3,
+      "text": "We are standing in a very good time. I don't know if you follow whatever happened in the crypto market.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " We",
+          "start": 96.62,
+          "end": 97.04,
+          "probability": 0.9870976805686951
+        },
+        {
+          "word": " are",
+          "start": 97.04,
+          "end": 97.24,
+          "probability": 0.9979046583175659
+        },
+        {
+          "word": " standing",
+          "start": 97.24,
+          "end": 97.6,
+          "probability": 0.986635148525238
+        },
+        {
+          "word": " in",
+          "start": 97.6,
+          "end": 97.84,
+          "probability": 0.9959248304367065
+        },
+        {
+          "word": " a",
+          "start": 97.84,
+          "end": 97.94,
+          "probability": 0.9960163235664368
+        },
+        {
+          "word": " very",
+          "start": 97.94,
+          "end": 98.16,
+          "probability": 0.9996973276138306
+        },
+        {
+          "word": " good",
+          "start": 98.16,
+          "end": 98.34,
+          "probability": 0.9998001456260681
+        },
+        {
+          "word": " time.",
+          "start": 98.34,
+          "end": 98.62,
+          "probability": 0.9988555908203125
+        },
+        {
+          "word": " I",
+          "start": 98.7,
+          "end": 98.82,
+          "probability": 0.9993467926979065
+        },
+        {
+          "word": " don't",
+          "start": 98.82,
+          "end": 98.96,
+          "probability": 0.9989653825759888
+        },
+        {
+          "word": " know",
+          "start": 98.96,
+          "end": 99.06,
+          "probability": 0.9994246959686279
+        },
+        {
+          "word": " if",
+          "start": 99.06,
+          "end": 99.18,
+          "probability": 0.9983394145965576
+        },
+        {
+          "word": " you",
+          "start": 99.18,
+          "end": 99.34,
+          "probability": 0.9997265934944153
+        },
+        {
+          "word": " follow",
+          "start": 99.34,
+          "end": 99.7,
+          "probability": 0.8633226752281189
+        },
+        {
+          "word": " whatever",
+          "start": 99.7,
+          "end": 100.02,
+          "probability": 0.9824931621551514
+        },
+        {
+          "word": " happened",
+          "start": 100.02,
+          "end": 100.44,
+          "probability": 0.9959549903869629
+        },
+        {
+          "word": " in",
+          "start": 100.44,
+          "end": 100.6,
+          "probability": 0.998314380645752
+        },
+        {
+          "word": " the",
+          "start": 100.6,
+          "end": 100.7,
+          "probability": 0.9996882677078247
+        },
+        {
+          "word": " crypto",
+          "start": 100.7,
+          "end": 100.88,
+          "probability": 0.9913103580474854
+        },
+        {
+          "word": " market.",
+          "start": 100.88,
+          "end": 101.3,
+          "probability": 0.8690528273582458
+        }
+      ]
+    },
+    {
+      "start": 101.44,
+      "end": 104.26,
+      "text": "It just skyrocketed in high quite a lot.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " It",
+          "start": 101.44,
+          "end": 101.56,
+          "probability": 0.9981232285499573
+        },
+        {
+          "word": " just",
+          "start": 101.56,
+          "end": 101.72,
+          "probability": 0.5398809313774109
+        },
+        {
+          "word": " skyrocketed",
+          "start": 101.72,
+          "end": 102.88,
+          "probability": 0.995918333530426
+        },
+        {
+          "word": " in",
+          "start": 102.88,
+          "end": 102.92,
+          "probability": 0.878287136554718
+        },
+        {
+          "word": " high",
+          "start": 102.92,
+          "end": 103.08,
+          "probability": 0.4799058437347412
+        },
+        {
+          "word": " quite",
+          "start": 103.08,
+          "end": 103.78,
+          "probability": 0.7674850225448608
+        },
+        {
+          "word": " a",
+          "start": 103.78,
+          "end": 104.06,
+          "probability": 0.9999774694442749
+        },
+        {
+          "word": " lot.",
+          "start": 104.06,
+          "end": 104.26,
+          "probability": 0.9999545812606812
+        }
+      ]
+    },
+    {
+      "start": 104.76,
+      "end": 107.86,
+      "text": "We had massive news that happens and comes from Trump.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " We",
+          "start": 104.76,
+          "end": 105.18,
+          "probability": 0.9955915808677673
+        },
+        {
+          "word": " had",
+          "start": 105.18,
+          "end": 105.34,
+          "probability": 0.998788058757782
+        },
+        {
+          "word": " massive",
+          "start": 105.34,
+          "end": 105.68,
+          "probability": 0.9931608438491821
+        },
+        {
+          "word": " news",
+          "start": 105.68,
+          "end": 105.94,
+          "probability": 0.9939350485801697
+        },
+        {
+          "word": " that",
+          "start": 105.94,
+          "end": 106.22,
+          "probability": 0.9984639883041382
+        },
+        {
+          "word": " happens",
+          "start": 106.22,
+          "end": 106.5,
+          "probability": 0.6155176162719727
+        },
+        {
+          "word": " and",
+          "start": 106.5,
+          "end": 106.8,
+          "probability": 0.9847639203071594
+        },
+        {
+          "word": " comes",
+          "start": 106.8,
+          "end": 107.08,
+          "probability": 0.9990251064300537
+        },
+        {
+          "word": " from",
+          "start": 107.08,
+          "end": 107.48,
+          "probability": 0.999893307685852
+        },
+        {
+          "word": " Trump.",
+          "start": 107.48,
+          "end": 107.86,
+          "probability": 0.9908156394958496
+        }
+      ]
+    },
+    {
+      "start": 108.22,
+      "end": 116.1,
+      "text": "We're not going to confuse you before your interview because I wonder if you will be prepared and fully on the interview.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " We're",
+          "start": 108.22,
+          "end": 108.64,
+          "probability": 0.7469818592071533
+        },
+        {
+          "word": " not",
+          "start": 108.64,
+          "end": 108.7,
+          "probability": 0.9694430232048035
+        },
+        {
+          "word": " going",
+          "start": 108.7,
+          "end": 108.84,
+          "probability": 0.705115556716919
+        },
+        {
+          "word": " to",
+          "start": 108.84,
+          "end": 108.96,
+          "probability": 0.9999480247497559
+        },
+        {
+          "word": " confuse",
+          "start": 108.96,
+          "end": 109.22,
+          "probability": 0.9991456270217896
+        },
+        {
+          "word": " you",
+          "start": 109.22,
+          "end": 109.32,
+          "probability": 0.9999895095825195
+        },
+        {
+          "word": " before",
+          "start": 109.32,
+          "end": 109.56,
+          "probability": 0.9959542751312256
+        },
+        {
+          "word": " your",
+          "start": 109.56,
+          "end": 109.74,
+          "probability": 0.998666524887085
+        },
+        {
+          "word": " interview",
+          "start": 109.74,
+          "end": 110.1,
+          "probability": 0.9999656677246094
+        },
+        {
+          "word": " because",
+          "start": 110.1,
+          "end": 110.5,
+          "probability": 0.7680701017379761
+        },
+        {
+          "word": " I",
+          "start": 110.5,
+          "end": 110.72,
+          "probability": 0.9997445940971375
+        },
+        {
+          "word": " wonder",
+          "start": 110.72,
+          "end": 110.92,
+          "probability": 0.70695960521698
+        },
+        {
+          "word": " if",
+          "start": 110.92,
+          "end": 111.04,
+          "probability": 0.9538212418556213
+        },
+        {
+          "word": " you",
+          "start": 111.04,
+          "end": 111.16,
+          "probability": 0.9996592998504639
+        },
+        {
+          "word": " will",
+          "start": 111.16,
+          "end": 111.26,
+          "probability": 0.9978772401809692
+        },
+        {
+          "word": " be",
+          "start": 111.26,
+          "end": 111.5,
+          "probability": 0.9999806880950928
+        },
+        {
+          "word": " prepared",
+          "start": 111.5,
+          "end": 113.48,
+          "probability": 0.9930485486984253
+        },
+        {
+          "word": " and",
+          "start": 113.48,
+          "end": 114.18,
+          "probability": 0.7858535051345825
+        },
+        {
+          "word": " fully",
+          "start": 114.18,
+          "end": 115.34,
+          "probability": 0.9979065656661987
+        },
+        {
+          "word": " on",
+          "start": 115.34,
+          "end": 115.6,
+          "probability": 0.998969554901123
+        },
+        {
+          "word": " the",
+          "start": 115.6,
+          "end": 115.72,
+          "probability": 0.9998239874839783
+        },
+        {
+          "word": " interview.",
+          "start": 115.72,
+          "end": 116.1,
+          "probability": 0.9998995065689087
+        }
+      ]
+    },
+    {
+      "start": 116.18,
+      "end": 117.86,
+      "text": "And I will share with you that later on tonight.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " And",
+          "start": 116.18,
+          "end": 116.3,
+          "probability": 0.8922433853149414
+        },
+        {
+          "word": " I",
+          "start": 116.3,
+          "end": 116.36,
+          "probability": 0.9979526996612549
+        },
+        {
+          "word": " will",
+          "start": 116.36,
+          "end": 116.5,
+          "probability": 0.9842604994773865
+        },
+        {
+          "word": " share",
+          "start": 116.5,
+          "end": 116.7,
+          "probability": 0.9990329742431641
+        },
+        {
+          "word": " with",
+          "start": 116.7,
+          "end": 116.84,
+          "probability": 0.9996703863143921
+        },
+        {
+          "word": " you",
+          "start": 116.84,
+          "end": 116.98,
+          "probability": 0.9999972581863403
+        },
+        {
+          "word": " that",
+          "start": 116.98,
+          "end": 117.14,
+          "probability": 0.9999529123306274
+        },
+        {
+          "word": " later",
+          "start": 117.14,
+          "end": 117.4,
+          "probability": 0.999790608882904
+        },
+        {
+          "word": " on",
+          "start": 117.4,
+          "end": 117.62,
+          "probability": 0.9998645782470703
+        },
+        {
+          "word": " tonight.",
+          "start": 117.62,
+          "end": 117.86,
+          "probability": 0.9998812675476074
+        }
+      ]
+    },
+    {
+      "start": 119.12000000000002,
+      "end": 123.6,
+      "text": "But let's just double-check and making sure that everything is in the right place.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " But",
+          "start": 119.12000000000002,
+          "end": 119.58000000000001,
+          "probability": 0.012368382886052132
+        },
+        {
+          "word": " let's",
+          "start": 119.58000000000001,
+          "end": 120.04,
+          "probability": 0.8671543598175049
+        },
+        {
+          "word": " just",
+          "start": 120.04,
+          "end": 120.14,
+          "probability": 0.9788898229598999
+        },
+        {
+          "word": " double",
+          "start": 120.14,
+          "end": 120.46,
+          "probability": 0.9952517747879028
+        },
+        {
+          "word": "-check",
+          "start": 120.46,
+          "end": 120.68,
+          "probability": 0.5795005559921265
+        },
+        {
+          "word": " and",
+          "start": 120.68,
+          "end": 121.7,
+          "probability": 0.46246686577796936
+        },
+        {
+          "word": " making",
+          "start": 121.7,
+          "end": 122.24,
+          "probability": 0.8283717632293701
+        },
+        {
+          "word": " sure",
+          "start": 122.24,
+          "end": 122.5,
+          "probability": 0.9977317452430725
+        },
+        {
+          "word": " that",
+          "start": 122.5,
+          "end": 122.72,
+          "probability": 0.9816915392875671
+        },
+        {
+          "word": " everything",
+          "start": 122.72,
+          "end": 123.0,
+          "probability": 0.9879250526428223
+        },
+        {
+          "word": " is",
+          "start": 123.0,
+          "end": 123.18,
+          "probability": 0.053771838545799255
+        },
+        {
+          "word": " in",
+          "start": 123.18,
+          "end": 123.26,
+          "probability": 0.7779191732406616
+        },
+        {
+          "word": " the",
+          "start": 123.26,
+          "end": 123.26,
+          "probability": 0.984466552734375
+        },
+        {
+          "word": " right",
+          "start": 123.26,
+          "end": 123.36,
+          "probability": 0.9972665309906006
+        },
+        {
+          "word": " place.",
+          "start": 123.36,
+          "end": 123.6,
+          "probability": 0.9941132664680481
+        }
+      ]
+    },
+    {
+      "start": 123.74,
+      "end": 128.7,
+      "text": "I don't want that... I don't know if you will have any hacking or anything like that or someone took money from the exchange.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " I",
+          "start": 123.74,
+          "end": 123.84,
+          "probability": 0.9229860901832581
+        },
+        {
+          "word": " don't",
+          "start": 123.84,
+          "end": 123.98,
+          "probability": 0.9903532862663269
+        },
+        {
+          "word": " want",
+          "start": 123.98,
+          "end": 124.2,
+          "probability": 0.7824458479881287
+        },
+        {
+          "word": " that...",
+          "start": 124.2,
+          "end": 124.46,
+          "probability": 0.4489935636520386
+        },
+        {
+          "word": " I",
+          "start": 124.46,
+          "end": 124.86,
+          "probability": 0.8875654935836792
+        },
+        {
+          "word": " don't",
+          "start": 124.86,
+          "end": 125.06,
+          "probability": 0.9920580387115479
+        },
+        {
+          "word": " know",
+          "start": 125.06,
+          "end": 125.16,
+          "probability": 0.9960578680038452
+        },
+        {
+          "word": " if",
+          "start": 125.16,
+          "end": 125.26,
+          "probability": 0.20257557928562164
+        },
+        {
+          "word": " you",
+          "start": 125.26,
+          "end": 125.4,
+          "probability": 0.9534701108932495
+        },
+        {
+          "word": " will",
+          "start": 125.4,
+          "end": 125.44,
+          "probability": 0.2393748164176941
+        },
+        {
+          "word": " have",
+          "start": 125.44,
+          "end": 125.58,
+          "probability": 0.9751517176628113
+        },
+        {
+          "word": " any",
+          "start": 125.58,
+          "end": 125.76,
+          "probability": 0.9709634780883789
+        },
+        {
+          "word": " hacking",
+          "start": 125.76,
+          "end": 126.08,
+          "probability": 0.9907329082489014
+        },
+        {
+          "word": " or",
+          "start": 126.08,
+          "end": 126.32,
+          "probability": 0.8183543086051941
+        },
+        {
+          "word": " anything",
+          "start": 126.32,
+          "end": 126.54,
+          "probability": 0.8184505105018616
+        },
+        {
+          "word": " like",
+          "start": 126.54,
+          "end": 126.8,
+          "probability": 0.9827714562416077
+        },
+        {
+          "word": " that",
+          "start": 126.8,
+          "end": 126.98,
+          "probability": 0.9965519905090332
+        },
+        {
+          "word": " or",
+          "start": 126.98,
+          "end": 127.22,
+          "probability": 0.6176841259002686
+        },
+        {
+          "word": " someone",
+          "start": 127.22,
+          "end": 127.6,
+          "probability": 0.7583420276641846
+        },
+        {
+          "word": " took",
+          "start": 127.6,
+          "end": 127.8,
+          "probability": 0.9591323733329773
+        },
+        {
+          "word": " money",
+          "start": 127.8,
+          "end": 128.1,
+          "probability": 0.9925750494003296
+        },
+        {
+          "word": " from",
+          "start": 128.1,
+          "end": 128.32,
+          "probability": 0.9944317936897278
+        },
+        {
+          "word": " the",
+          "start": 128.32,
+          "end": 128.44,
+          "probability": 0.9589561820030212
+        },
+        {
+          "word": " exchange.",
+          "start": 128.44,
+          "end": 128.7,
+          "probability": 0.956171989440918
+        }
+      ]
+    },
+    {
+      "start": 130.2,
+      "end": 130.66,
+      "text": "Okay.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Okay.",
+          "start": 130.2,
+          "end": 130.66,
+          "probability": 0.4599311649799347
+        }
+      ]
+    },
+    {
+      "start": 142.92,
+      "end": 146.48,
+      "text": "And security code is CO2005.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " And",
+          "start": 142.92,
+          "end": 143.38,
+          "probability": 0.4933505356311798
+        },
+        {
+          "word": " security",
+          "start": 143.38,
+          "end": 143.84,
+          "probability": 0.7677921056747437
+        },
+        {
+          "word": " code",
+          "start": 143.84,
+          "end": 144.3,
+          "probability": 0.9100123643875122
+        },
+        {
+          "word": " is",
+          "start": 144.3,
+          "end": 144.5,
+          "probability": 0.9476304650306702
+        },
+        {
+          "word": " CO2005.",
+          "start": 144.5,
+          "end": 146.48,
+          "probability": 0.6142460703849792
+        }
+      ]
+    },
+    {
+      "start": 151.42,
+      "end": 154.2,
+      "text": "Oh, sorry.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Oh,",
+          "start": 151.42,
+          "end": 151.92,
+          "probability": 0.002553279045969248
+        },
+        {
+          "word": " sorry.",
+          "start": 153.84,
+          "end": 154.2,
+          "probability": 0.0006575130391865969
+        }
+      ]
+    },
+    {
+      "start": 154.7,
+      "end": 154.78,
+      "text": "Oh sorry.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 154.7,
+          "end": 154.78,
+          "probability": 0.011014251969754696
+        },
+        {
+          "word": " sorry.",
+          "start": 154.78,
+          "end": 154.78,
+          "probability": 0.0044885193929076195
+        }
+      ]
+    },
+    {
+      "start": 157.96,
+      "end": 158.96,
+      "text": "Oh sorry.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 157.96,
+          "end": 158.46,
+          "probability": 0.08312293887138367
+        },
+        {
+          "word": " sorry.",
+          "start": 158.46,
+          "end": 158.96,
+          "probability": 0.4330521523952484
+        }
+      ]
+    },
+    {
+      "start": 158.96,
+      "end": 163.1,
+      "text": "Oh sorry.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 158.96,
+          "end": 159.16,
+          "probability": 0.3230047821998596
+        },
+        {
+          "word": " sorry.",
+          "start": 159.16,
+          "end": 163.1,
+          "probability": 0.7828664183616638
+        }
+      ]
+    },
+    {
+      "start": 163.1,
+      "end": 163.18,
+      "text": "Oh sorry.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 163.1,
+          "end": 163.1,
+          "probability": 0.5285693407058716
+        },
+        {
+          "word": " sorry.",
+          "start": 163.1,
+          "end": 163.18,
+          "probability": 0.8673301935195923
+        }
+      ]
+    },
+    {
+      "start": 163.94,
+      "end": 164.14,
+      "text": "Oh sorry.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 163.94,
+          "end": 163.94,
+          "probability": 0.6642577052116394
+        },
+        {
+          "word": " sorry.",
+          "start": 163.94,
+          "end": 164.14,
+          "probability": 0.8941827416419983
+        }
+      ]
+    },
+    {
+      "start": 164.96,
+      "end": 165.12,
+      "text": "Oh sorry.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 164.96,
+          "end": 165.1,
+          "probability": 0.7479872107505798
+        },
+        {
+          "word": " sorry.",
+          "start": 165.1,
+          "end": 165.12,
+          "probability": 0.9097973108291626
+        }
+      ]
+    },
+    {
+      "start": 165.94,
+      "end": 166.06,
+      "text": "Oh sorry.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 165.94,
+          "end": 166.06,
+          "probability": 0.8026127815246582
+        },
+        {
+          "word": " sorry.",
+          "start": 166.06,
+          "end": 166.06,
+          "probability": 0.9187466502189636
+        }
+      ]
+    },
+    {
+      "start": 166.16,
+      "end": 166.28,
+      "text": "Oh sorry.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 166.16,
+          "end": 166.28,
+          "probability": 0.9526639580726624
+        },
+        {
+          "word": " sorry.",
+          "start": 166.28,
+          "end": 166.28,
+          "probability": 0.9582529067993164
+        }
+      ]
+    },
+    {
+      "start": 166.28,
+      "end": 166.34,
+      "text": "Oh sorry.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 166.28,
+          "end": 166.34,
+          "probability": 0.9618735313415527
+        },
+        {
+          "word": " sorry.",
+          "start": 166.34,
+          "end": 166.34,
+          "probability": 0.9733827710151672
+        }
+      ]
+    },
+    {
+      "start": 166.38,
+      "end": 166.5,
+      "text": "Oh sorry.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 166.38,
+          "end": 166.5,
+          "probability": 0.9620962738990784
+        },
+        {
+          "word": " sorry.",
+          "start": 166.5,
+          "end": 166.5,
+          "probability": 0.9744979739189148
+        }
+      ]
+    },
+    {
+      "start": 166.5,
+      "end": 167.54,
+      "text": "Oh sorry.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 166.5,
+          "end": 166.8,
+          "probability": 0.9622418284416199
+        },
+        {
+          "word": " sorry.",
+          "start": 166.8,
+          "end": 167.54,
+          "probability": 0.9755353331565857
+        }
+      ]
+    },
+    {
+      "start": 167.78,
+      "end": 168.3,
+      "text": "Oh sorry.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 167.78,
+          "end": 167.78,
+          "probability": 0.9628748297691345
+        },
+        {
+          "word": " sorry.",
+          "start": 167.78,
+          "end": 168.3,
+          "probability": 0.9761105179786682
+        }
+      ]
+    },
+    {
+      "start": 168.3,
+      "end": 168.68,
+      "text": "Oh sorry.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 168.3,
+          "end": 168.48,
+          "probability": 0.963246762752533
+        },
+        {
+          "word": " sorry.",
+          "start": 168.48,
+          "end": 168.68,
+          "probability": 0.9766067862510681
+        }
+      ]
+    },
+    {
+      "start": 168.8,
+      "end": 169.48,
+      "text": "Oh sorry.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 168.8,
+          "end": 169.3,
+          "probability": 0.9636220932006836
+        },
+        {
+          "word": " sorry.",
+          "start": 169.3,
+          "end": 169.48,
+          "probability": 0.9779605269432068
+        }
+      ]
+    },
+    {
+      "start": 169.82,
+      "end": 170.38,
+      "text": "Oh sorry.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 169.82,
+          "end": 170.06,
+          "probability": 0.9640414714813232
+        },
+        {
+          "word": " sorry.",
+          "start": 170.06,
+          "end": 170.38,
+          "probability": 0.9786927103996277
+        }
+      ]
+    },
+    {
+      "start": 171.0,
+      "end": 171.76,
+      "text": "Oh sorry.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 171.0,
+          "end": 171.5,
+          "probability": 0.9642309546470642
+        },
+        {
+          "word": " sorry.",
+          "start": 171.5,
+          "end": 171.76,
+          "probability": 0.9794995784759521
+        }
+      ]
+    },
+    {
+      "start": 172.3,
+      "end": 173.02,
+      "text": "Oh sorry.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 172.3,
+          "end": 172.78,
+          "probability": 0.9650121331214905
+        },
+        {
+          "word": " sorry.",
+          "start": 172.78,
+          "end": 173.02,
+          "probability": 0.9802966117858887
+        }
+      ]
+    },
+    {
+      "start": 189.94,
+      "end": 191.24,
+      "text": "Yeah, and sign in, yeah.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Yeah,",
+          "start": 189.94,
+          "end": 190.26,
+          "probability": 0.36874011158943176
+        },
+        {
+          "word": " and",
+          "start": 190.32,
+          "end": 190.54,
+          "probability": 0.7606387734413147
+        },
+        {
+          "word": " sign",
+          "start": 190.54,
+          "end": 190.88,
+          "probability": 0.8841344118118286
+        },
+        {
+          "word": " in,",
+          "start": 190.88,
+          "end": 191.12,
+          "probability": 0.9412016868591309
+        },
+        {
+          "word": " yeah.",
+          "start": 191.16,
+          "end": 191.24,
+          "probability": 0.7406285405158997
+        }
+      ]
+    },
+    {
+      "start": 211.64,
+      "end": 212.22,
+      "text": "That's James.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " That's",
+          "start": 211.64,
+          "end": 212.04,
+          "probability": 0.5169031023979187
+        },
+        {
+          "word": " James.",
+          "start": 212.04,
+          "end": 212.22,
+          "probability": 0.5948370695114136
+        }
+      ]
+    },
+    {
+      "start": 213.2,
+      "end": 213.6,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Yeah.",
+          "start": 213.2,
+          "end": 213.6,
+          "probability": 0.8391447067260742
+        }
+      ]
+    },
+    {
+      "start": 214.38,
+      "end": 214.78,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Yeah.",
+          "start": 214.38,
+          "end": 214.78,
+          "probability": 0.011084290221333504
+        }
+      ]
+    },
+    {
+      "start": 215.6,
+      "end": 216.82,
+      "text": "Depends to the best of us.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Depends",
+          "start": 215.6,
+          "end": 216.0,
+          "probability": 0.6849775314331055
+        },
+        {
+          "word": " to",
+          "start": 216.0,
+          "end": 216.16,
+          "probability": 0.9311025142669678
+        },
+        {
+          "word": " the",
+          "start": 216.16,
+          "end": 216.26,
+          "probability": 0.9998358488082886
+        },
+        {
+          "word": " best",
+          "start": 216.26,
+          "end": 216.46,
+          "probability": 0.9992749094963074
+        },
+        {
+          "word": " of",
+          "start": 216.46,
+          "end": 216.62,
+          "probability": 0.9997974038124084
+        },
+        {
+          "word": " us.",
+          "start": 216.62,
+          "end": 216.82,
+          "probability": 0.9997864365577698
+        }
+      ]
+    },
+    {
+      "start": 224.42,
+      "end": 224.82,
+      "text": "Dashboard.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Dashboard.",
+          "start": 224.42,
+          "end": 224.82,
+          "probability": 0.8714085817337036
+        }
+      ]
+    },
+    {
+      "start": 231.78,
+      "end": 232.18,
+      "text": "Okay.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Okay.",
+          "start": 231.78,
+          "end": 232.18,
+          "probability": 0.908585786819458
+        }
+      ]
+    },
+    {
+      "start": 233.34,
+      "end": 236.22,
+      "text": "Overall performance, 4,301.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Overall",
+          "start": 233.34,
+          "end": 233.78,
+          "probability": 0.6044597029685974
+        },
+        {
+          "word": " performance,",
+          "start": 233.78,
+          "end": 234.22,
+          "probability": 0.950901448726654
+        },
+        {
+          "word": " 4",
+          "start": 234.64,
+          "end": 234.78,
+          "probability": 0.9044983386993408
+        },
+        {
+          "word": ",301.",
+          "start": 234.78,
+          "end": 236.22,
+          "probability": 0.9791554808616638
+        }
+      ]
+    },
+    {
+      "start": 242.62,
+      "end": 244.28,
+      "text": "Can I take over real quick?",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Can",
+          "start": 242.62,
+          "end": 243.06,
+          "probability": 0.8361928462982178
+        },
+        {
+          "word": " I",
+          "start": 243.06,
+          "end": 243.5,
+          "probability": 0.9992730021476746
+        },
+        {
+          "word": " take",
+          "start": 243.5,
+          "end": 243.68,
+          "probability": 0.9661481976509094
+        },
+        {
+          "word": " over",
+          "start": 243.68,
+          "end": 243.88,
+          "probability": 0.6223680377006531
+        },
+        {
+          "word": " real",
+          "start": 243.88,
+          "end": 244.08,
+          "probability": 0.9647578597068787
+        },
+        {
+          "word": " quick?",
+          "start": 244.08,
+          "end": 244.28,
+          "probability": 0.9999631643295288
+        }
+      ]
+    },
+    {
+      "start": 245.28,
+      "end": 245.72,
+      "text": "Yep.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Yep.",
+          "start": 245.28,
+          "end": 245.72,
+          "probability": 0.9342217445373535
+        }
+      ]
+    },
+    {
+      "start": 247.38,
+      "end": 248.2,
+      "text": "One second.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " One",
+          "start": 247.38,
+          "end": 247.82,
+          "probability": 0.9862645268440247
+        },
+        {
+          "word": " second.",
+          "start": 247.82,
+          "end": 248.2,
+          "probability": 0.9998295307159424
+        }
+      ]
+    },
+    {
+      "start": 250.04,
+      "end": 251.92,
+      "text": "So we see you have more than 50.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " So",
+          "start": 250.04,
+          "end": 250.48,
+          "probability": 0.6042662858963013
+        },
+        {
+          "word": " we",
+          "start": 250.48,
+          "end": 250.64,
+          "probability": 0.8614752292633057
+        },
+        {
+          "word": " see",
+          "start": 250.64,
+          "end": 250.86,
+          "probability": 0.9998461008071899
+        },
+        {
+          "word": " you",
+          "start": 250.86,
+          "end": 250.96,
+          "probability": 0.9994144439697266
+        },
+        {
+          "word": " have",
+          "start": 250.96,
+          "end": 251.14,
+          "probability": 0.9999520778656006
+        },
+        {
+          "word": " more",
+          "start": 251.14,
+          "end": 251.38,
+          "probability": 0.9999066591262817
+        },
+        {
+          "word": " than",
+          "start": 251.38,
+          "end": 251.56,
+          "probability": 0.999940037727356
+        },
+        {
+          "word": " 50.",
+          "start": 251.56,
+          "end": 251.92,
+          "probability": 0.9872782230377197
+        }
+      ]
+    },
+    {
+      "start": 252.1,
+      "end": 253.54,
+      "text": "You wrote that you have 50, mate.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " You",
+          "start": 252.1,
+          "end": 252.4,
+          "probability": 0.9966506361961365
+        },
+        {
+          "word": " wrote",
+          "start": 252.4,
+          "end": 252.58,
+          "probability": 0.4451272785663605
+        },
+        {
+          "word": " that",
+          "start": 252.58,
+          "end": 252.74,
+          "probability": 0.3723856210708618
+        },
+        {
+          "word": " you",
+          "start": 252.74,
+          "end": 252.96,
+          "probability": 0.99993896484375
+        },
+        {
+          "word": " have",
+          "start": 252.96,
+          "end": 253.04,
+          "probability": 0.9988831877708435
+        },
+        {
+          "word": " 50,",
+          "start": 253.04,
+          "end": 253.34,
+          "probability": 0.9996869564056396
+        },
+        {
+          "word": " mate.",
+          "start": 253.38,
+          "end": 253.54,
+          "probability": 0.9990992546081543
+        }
+      ]
+    },
+    {
+      "start": 255.26,
+      "end": 256.56,
+      "text": "Yeah, there's 50 days.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Yeah,",
+          "start": 255.26,
+          "end": 255.7,
+          "probability": 0.9858852624893188
+        },
+        {
+          "word": " there's",
+          "start": 255.72,
+          "end": 255.9,
+          "probability": 0.9921334981918335
+        },
+        {
+          "word": " 50",
+          "start": 255.9,
+          "end": 256.22,
+          "probability": 0.8995251059532166
+        },
+        {
+          "word": " days.",
+          "start": 256.22,
+          "end": 256.56,
+          "probability": 0.6582191586494446
+        }
+      ]
+    },
+    {
+      "start": 256.74,
+      "end": 257.48,
+      "text": "The others...",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " The",
+          "start": 256.74,
+          "end": 256.88,
+          "probability": 0.2322538197040558
+        },
+        {
+          "word": " others...",
+          "start": 256.88,
+          "end": 257.48,
+          "probability": 0.7178480625152588
+        }
+      ]
+    },
+    {
+      "start": 257.48,
+      "end": 258.1,
+      "text": "Ah, no.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Ah,",
+          "start": 257.48,
+          "end": 257.96,
+          "probability": 0.6377014517784119
+        },
+        {
+          "word": " no.",
+          "start": 257.96,
+          "end": 258.1,
+          "probability": 0.9604581594467163
+        }
+      ]
+    },
+    {
+      "start": 258.56,
+      "end": 261.38,
+      "text": "No, I was talking about the overall portfolio, my man.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " No,",
+          "start": 258.56,
+          "end": 259.0,
+          "probability": 0.8602641820907593
+        },
+        {
+          "word": " I",
+          "start": 259.06,
+          "end": 259.18,
+          "probability": 0.9996285438537598
+        },
+        {
+          "word": " was",
+          "start": 259.18,
+          "end": 259.36,
+          "probability": 0.9999759197235107
+        },
+        {
+          "word": " talking",
+          "start": 259.36,
+          "end": 259.66,
+          "probability": 0.9997360110282898
+        },
+        {
+          "word": " about",
+          "start": 259.66,
+          "end": 259.94,
+          "probability": 0.9999701976776123
+        },
+        {
+          "word": " the",
+          "start": 259.94,
+          "end": 260.18,
+          "probability": 0.9998087286949158
+        },
+        {
+          "word": " overall",
+          "start": 260.18,
+          "end": 260.4,
+          "probability": 0.9996079802513123
+        },
+        {
+          "word": " portfolio,",
+          "start": 260.4,
+          "end": 260.84,
+          "probability": 0.9992125034332275
+        },
+        {
+          "word": " my",
+          "start": 261.04,
+          "end": 261.16,
+          "probability": 0.9996339082717896
+        },
+        {
+          "word": " man.",
+          "start": 261.16,
+          "end": 261.38,
+          "probability": 0.9997261166572571
+        }
+      ]
+    },
+    {
+      "start": 261.5,
+      "end": 262.76,
+      "text": "Not about the amount of...",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Not",
+          "start": 261.5,
+          "end": 261.76,
+          "probability": 0.9980541467666626
+        },
+        {
+          "word": " about",
+          "start": 261.76,
+          "end": 262.0,
+          "probability": 0.9999465942382812
+        },
+        {
+          "word": " the",
+          "start": 262.0,
+          "end": 262.16,
+          "probability": 0.9999077320098877
+        },
+        {
+          "word": " amount",
+          "start": 262.16,
+          "end": 262.38,
+          "probability": 0.9765674471855164
+        },
+        {
+          "word": " of...",
+          "start": 262.38,
+          "end": 262.76,
+          "probability": 0.47660911083221436
+        }
+      ]
+    },
+    {
+      "start": 262.76,
+      "end": 262.82,
+      "text": "Ah.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Ah.",
+          "start": 262.76,
+          "end": 262.82,
+          "probability": 0.7955116033554077
+        }
+      ]
+    },
+    {
+      "start": 263.02,
+      "end": 263.98,
+      "text": "All right.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " All",
+          "start": 263.02,
+          "end": 263.36,
+          "probability": 0.3991418182849884
+        },
+        {
+          "word": " right.",
+          "start": 263.36,
+          "end": 263.98,
+          "probability": 0.99489426612854
+        }
+      ]
+    },
+    {
+      "start": 265.68,
+      "end": 266.3,
+      "text": "I got you.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " I",
+          "start": 265.46,
+          "end": 265.78,
+          "probability": 0.9910791516304016
+        },
+        {
+          "word": " got",
+          "start": 265.78,
+          "end": 266.06,
+          "probability": 0.9815133810043335
+        },
+        {
+          "word": " you.",
+          "start": 266.06,
+          "end": 266.3,
+          "probability": 0.9992830157279968
+        }
+      ]
+    },
+    {
+      "start": 267.34000000000003,
+      "end": 272.22,
+      "text": "But remember there's other stuff that we sit on triggers?",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " But",
+          "start": 267.34000000000003,
+          "end": 267.98,
+          "probability": 0.9955381155014038
+        },
+        {
+          "word": " remember",
+          "start": 267.98,
+          "end": 268.32,
+          "probability": 0.9950630068778992
+        },
+        {
+          "word": " there's",
+          "start": 268.32,
+          "end": 268.84,
+          "probability": 0.6294695734977722
+        },
+        {
+          "word": " other",
+          "start": 268.84,
+          "end": 269.38,
+          "probability": 0.9795519709587097
+        },
+        {
+          "word": " stuff",
+          "start": 269.38,
+          "end": 270.02,
+          "probability": 0.9998350143432617
+        },
+        {
+          "word": " that",
+          "start": 270.02,
+          "end": 270.54,
+          "probability": 0.9942392110824585
+        },
+        {
+          "word": " we",
+          "start": 270.54,
+          "end": 270.8,
+          "probability": 0.9997299313545227
+        },
+        {
+          "word": " sit",
+          "start": 270.8,
+          "end": 271.16,
+          "probability": 0.9300652146339417
+        },
+        {
+          "word": " on",
+          "start": 271.16,
+          "end": 271.52,
+          "probability": 0.9998953342437744
+        },
+        {
+          "word": " triggers?",
+          "start": 271.52,
+          "end": 272.22,
+          "probability": 0.8356488943099976
+        }
+      ]
+    },
+    {
+      "start": 272.92,
+      "end": 273.72,
+      "text": "Yeah, yeah.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Yeah,",
+          "start": 272.92,
+          "end": 273.56,
+          "probability": 0.9843973517417908
+        },
+        {
+          "word": " yeah.",
+          "start": 273.56,
+          "end": 273.72,
+          "probability": 0.9993048906326294
+        }
+      ]
+    },
+    {
+      "start": 274.16,
+      "end": 276.12,
+      "text": "Can you just approve my request?",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Can",
+          "start": 274.16,
+          "end": 274.8,
+          "probability": 0.9966809153556824
+        },
+        {
+          "word": " you",
+          "start": 274.8,
+          "end": 275.04,
+          "probability": 0.9999589920043945
+        },
+        {
+          "word": " just",
+          "start": 275.04,
+          "end": 275.26,
+          "probability": 0.9997655749320984
+        },
+        {
+          "word": " approve",
+          "start": 275.26,
+          "end": 275.48,
+          "probability": 0.6652550101280212
+        },
+        {
+          "word": " my",
+          "start": 275.48,
+          "end": 275.84,
+          "probability": 0.9999747276306152
+        },
+        {
+          "word": " request?",
+          "start": 275.84,
+          "end": 276.12,
+          "probability": 0.999840497970581
+        }
+      ]
+    },
+    {
+      "start": 280.82,
+      "end": 286.34,
+      "text": "I asked you about the balance because the crypto market skyrocketed high over the weekend.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " I",
+          "start": 280.82,
+          "end": 281.46,
+          "probability": 0.9749307036399841
+        },
+        {
+          "word": " asked",
+          "start": 281.46,
+          "end": 281.82,
+          "probability": 0.8363164067268372
+        },
+        {
+          "word": " you",
+          "start": 281.82,
+          "end": 282.06,
+          "probability": 0.9997592568397522
+        },
+        {
+          "word": " about",
+          "start": 282.06,
+          "end": 282.24,
+          "probability": 0.9998171925544739
+        },
+        {
+          "word": " the",
+          "start": 282.24,
+          "end": 282.5,
+          "probability": 0.9996682405471802
+        },
+        {
+          "word": " balance",
+          "start": 282.5,
+          "end": 282.84,
+          "probability": 0.9997963309288025
+        },
+        {
+          "word": " because",
+          "start": 282.84,
+          "end": 283.24,
+          "probability": 0.9806861877441406
+        },
+        {
+          "word": " the",
+          "start": 283.24,
+          "end": 283.52,
+          "probability": 0.9994736313819885
+        },
+        {
+          "word": " crypto",
+          "start": 283.52,
+          "end": 283.74,
+          "probability": 0.9785641431808472
+        },
+        {
+          "word": " market",
+          "start": 283.74,
+          "end": 284.12,
+          "probability": 0.9980904459953308
+        },
+        {
+          "word": " skyrocketed",
+          "start": 284.12,
+          "end": 285.26,
+          "probability": 0.9997377991676331
+        },
+        {
+          "word": " high",
+          "start": 285.26,
+          "end": 285.44,
+          "probability": 0.40401920676231384
+        },
+        {
+          "word": " over",
+          "start": 285.44,
+          "end": 285.66,
+          "probability": 0.9996253252029419
+        },
+        {
+          "word": " the",
+          "start": 285.66,
+          "end": 285.86,
+          "probability": 0.9999737739562988
+        },
+        {
+          "word": " weekend.",
+          "start": 285.86,
+          "end": 286.34,
+          "probability": 0.9997244477272034
+        }
+      ]
+    },
+    {
+      "start": 286.66,
+      "end": 290.16,
+      "text": "So you see, 7%, 7%, 8%, 6%.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " So",
+          "start": 286.66,
+          "end": 286.96,
+          "probability": 0.9692578911781311
+        },
+        {
+          "word": " you",
+          "start": 286.96,
+          "end": 287.12,
+          "probability": 0.8451525568962097
+        },
+        {
+          "word": " see,",
+          "start": 287.12,
+          "end": 287.4,
+          "probability": 0.9994606375694275
+        },
+        {
+          "word": " 7%,",
+          "start": 287.52,
+          "end": 288.32,
+          "probability": 0.9949466586112976
+        },
+        {
+          "word": " 7%,",
+          "start": 288.32,
+          "end": 288.92,
+          "probability": 0.9951542615890503
+        },
+        {
+          "word": " 8%,",
+          "start": 288.92,
+          "end": 289.46,
+          "probability": 0.9998177289962769
+        },
+        {
+          "word": " 6%.",
+          "start": 289.46,
+          "end": 290.16,
+          "probability": 0.9988778233528137
+        }
+      ]
+    },
+    {
+      "start": 290.16,
+      "end": 292.5,
+      "text": "So I asked you about the balance to understand.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " So",
+          "start": 290.16,
+          "end": 290.9,
+          "probability": 0.998948872089386
+        },
+        {
+          "word": " I",
+          "start": 290.9,
+          "end": 290.98,
+          "probability": 0.9993361830711365
+        },
+        {
+          "word": " asked",
+          "start": 290.98,
+          "end": 291.22,
+          "probability": 0.996566116809845
+        },
+        {
+          "word": " you",
+          "start": 291.22,
+          "end": 291.34,
+          "probability": 0.999976396560669
+        },
+        {
+          "word": " about",
+          "start": 291.34,
+          "end": 291.48,
+          "probability": 0.9999769926071167
+        },
+        {
+          "word": " the",
+          "start": 291.48,
+          "end": 291.62,
+          "probability": 0.9999502897262573
+        },
+        {
+          "word": " balance",
+          "start": 291.62,
+          "end": 291.86,
+          "probability": 0.9999706745147705
+        },
+        {
+          "word": " to",
+          "start": 291.86,
+          "end": 292.08,
+          "probability": 0.9996181726455688
+        },
+        {
+          "word": " understand.",
+          "start": 292.08,
+          "end": 292.5,
+          "probability": 0.9999293088912964
+        }
+      ]
+    },
+    {
+      "start": 292.6,
+      "end": 293.0,
+      "text": "Okay.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Okay.",
+          "start": 292.6,
+          "end": 293.0,
+          "probability": 0.4755576550960541
+        }
+      ]
+    },
+    {
+      "start": 293.02,
+      "end": 293.82,
+      "text": "What is the situation?",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " What",
+          "start": 293.02,
+          "end": 293.12,
+          "probability": 0.2651289999485016
+        },
+        {
+          "word": " is",
+          "start": 293.12,
+          "end": 293.24,
+          "probability": 0.9688452482223511
+        },
+        {
+          "word": " the",
+          "start": 293.24,
+          "end": 293.38,
+          "probability": 0.9805940985679626
+        },
+        {
+          "word": " situation?",
+          "start": 293.38,
+          "end": 293.82,
+          "probability": 0.9950757622718811
+        }
+      ]
+    },
+    {
+      "start": 293.96,
+      "end": 294.52,
+      "text": "So that's good.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " So",
+          "start": 293.96,
+          "end": 294.1,
+          "probability": 0.7232323288917542
+        },
+        {
+          "word": " that's",
+          "start": 294.1,
+          "end": 294.32,
+          "probability": 0.9131228923797607
+        },
+        {
+          "word": " good.",
+          "start": 294.32,
+          "end": 294.52,
+          "probability": 0.9978798627853394
+        }
+      ]
+    },
+    {
+      "start": 294.68,
+      "end": 296.66,
+      "text": "We have 50K outside the market.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " We",
+          "start": 294.68,
+          "end": 295.12,
+          "probability": 0.12572424113750458
+        },
+        {
+          "word": " have",
+          "start": 295.12,
+          "end": 295.22,
+          "probability": 0.9686702489852905
+        },
+        {
+          "word": " 50K",
+          "start": 295.22,
+          "end": 295.66,
+          "probability": 0.609289288520813
+        },
+        {
+          "word": " outside",
+          "start": 295.66,
+          "end": 296.0,
+          "probability": 0.9691691994667053
+        },
+        {
+          "word": " the",
+          "start": 296.0,
+          "end": 296.32,
+          "probability": 0.9784668684005737
+        },
+        {
+          "word": " market.",
+          "start": 296.32,
+          "end": 296.66,
+          "probability": 0.9988188147544861
+        }
+      ]
+    },
+    {
+      "start": 297.78,
+      "end": 298.26,
+      "text": "Yep.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Yep.",
+          "start": 297.78,
+          "end": 298.26,
+          "probability": 0.07991201430559158
+        }
+      ]
+    },
+    {
+      "start": 298.54,
+      "end": 299.96,
+      "text": "I will buy...",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " I",
+          "start": 298.54,
+          "end": 299.02,
+          "probability": 0.9419201612472534
+        },
+        {
+          "word": " will",
+          "start": 299.02,
+          "end": 299.26,
+          "probability": 0.9744459986686707
+        },
+        {
+          "word": " buy...",
+          "start": 299.26,
+          "end": 299.96,
+          "probability": 0.5954297780990601
+        }
+      ]
+    },
+    {
+      "start": 301.52,
+      "end": 304.82,
+      "text": "I will buy a little bit more over here.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " I",
+          "start": 301.52,
+          "end": 302.0,
+          "probability": 0.908068835735321
+        },
+        {
+          "word": " will",
+          "start": 302.0,
+          "end": 302.16,
+          "probability": 0.9959995746612549
+        },
+        {
+          "word": " buy",
+          "start": 302.16,
+          "end": 302.4,
+          "probability": 0.9996353387832642
+        },
+        {
+          "word": " a",
+          "start": 302.4,
+          "end": 302.52,
+          "probability": 0.998969554901123
+        },
+        {
+          "word": " little",
+          "start": 302.52,
+          "end": 302.62,
+          "probability": 0.9995059967041016
+        },
+        {
+          "word": " bit",
+          "start": 302.62,
+          "end": 302.84,
+          "probability": 0.999545156955719
+        },
+        {
+          "word": " more",
+          "start": 302.84,
+          "end": 303.14,
+          "probability": 0.9998929500579834
+        },
+        {
+          "word": " over",
+          "start": 303.14,
+          "end": 304.54,
+          "probability": 0.9189571738243103
+        },
+        {
+          "word": " here.",
+          "start": 304.54,
+          "end": 304.82,
+          "probability": 0.9993124008178711
+        }
+      ]
+    },
+    {
+      "start": 306.12,
+      "end": 306.88,
+      "text": "Mm-hmm.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Mm",
+          "start": 306.12,
+          "end": 306.6,
+          "probability": 0.2394392192363739
+        },
+        {
+          "word": "-hmm.",
+          "start": 306.6,
+          "end": 306.88,
+          "probability": 0.9827543497085571
+        }
+      ]
+    },
+    {
+      "start": 309.3,
+      "end": 310.66,
+      "text": "Just check the triggers.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Just",
+          "start": 309.3,
+          "end": 309.78,
+          "probability": 0.9903627038002014
+        },
+        {
+          "word": " check",
+          "start": 309.78,
+          "end": 310.12,
+          "probability": 0.9989942908287048
+        },
+        {
+          "word": " the",
+          "start": 310.12,
+          "end": 310.32,
+          "probability": 0.9999096393585205
+        },
+        {
+          "word": " triggers.",
+          "start": 310.32,
+          "end": 310.66,
+          "probability": 0.9929344654083252
+        }
+      ]
+    },
+    {
+      "start": 310.72,
+      "end": 312.7,
+      "text": "Is that coming through the money?",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Is",
+          "start": 310.72,
+          "end": 310.92,
+          "probability": 0.9984439015388489
+        },
+        {
+          "word": " that",
+          "start": 310.92,
+          "end": 311.04,
+          "probability": 0.9999104738235474
+        },
+        {
+          "word": " coming",
+          "start": 311.04,
+          "end": 311.3,
+          "probability": 0.9991845488548279
+        },
+        {
+          "word": " through",
+          "start": 311.3,
+          "end": 311.58,
+          "probability": 0.9886765480041504
+        },
+        {
+          "word": " the",
+          "start": 311.58,
+          "end": 311.94,
+          "probability": 0.69648677110672
+        },
+        {
+          "word": " money?",
+          "start": 311.94,
+          "end": 312.7,
+          "probability": 0.9407099485397339
+        }
+      ]
+    },
+    {
+      "start": 313.72,
+      "end": 315.06,
+      "text": "It will not be triggered.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " It",
+          "start": 313.72,
+          "end": 314.2,
+          "probability": 0.9991996884346008
+        },
+        {
+          "word": " will",
+          "start": 314.2,
+          "end": 314.36,
+          "probability": 0.9995436072349548
+        },
+        {
+          "word": " not",
+          "start": 314.36,
+          "end": 314.58,
+          "probability": 0.9999521970748901
+        },
+        {
+          "word": " be",
+          "start": 314.58,
+          "end": 314.72,
+          "probability": 0.9999608993530273
+        },
+        {
+          "word": " triggered.",
+          "start": 314.72,
+          "end": 315.06,
+          "probability": 0.9996834993362427
+        }
+      ]
+    },
+    {
+      "start": 315.18,
+      "end": 317.68,
+      "text": "I mean, all the crypto markets skyrocketed high.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " I",
+          "start": 315.18,
+          "end": 315.36,
+          "probability": 0.9877289533615112
+        },
+        {
+          "word": " mean,",
+          "start": 315.36,
+          "end": 315.44,
+          "probability": 0.9998772144317627
+        },
+        {
+          "word": " all",
+          "start": 315.46,
+          "end": 315.62,
+          "probability": 0.9960755705833435
+        },
+        {
+          "word": " the",
+          "start": 315.62,
+          "end": 315.76,
+          "probability": 0.99989914894104
+        },
+        {
+          "word": " crypto",
+          "start": 315.76,
+          "end": 315.98,
+          "probability": 0.9966525435447693
+        },
+        {
+          "word": " markets",
+          "start": 315.98,
+          "end": 316.34,
+          "probability": 0.9210116267204285
+        },
+        {
+          "word": " skyrocketed",
+          "start": 316.34,
+          "end": 317.44,
+          "probability": 0.9775875210762024
+        },
+        {
+          "word": " high.",
+          "start": 317.44,
+          "end": 317.68,
+          "probability": 0.05127321928739548
+        }
+      ]
+    },
+    {
+      "start": 317.82,
+      "end": 322.32,
+      "text": "There is no way that it will be triggered.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " There",
+          "start": 317.82,
+          "end": 318.3,
+          "probability": 0.9957476258277893
+        },
+        {
+          "word": " is",
+          "start": 318.3,
+          "end": 318.48,
+          "probability": 0.9995229244232178
+        },
+        {
+          "word": " no",
+          "start": 318.48,
+          "end": 318.68,
+          "probability": 0.9996253252029419
+        },
+        {
+          "word": " way",
+          "start": 318.68,
+          "end": 319.84,
+          "probability": 0.9760237336158752
+        },
+        {
+          "word": " that",
+          "start": 319.84,
+          "end": 320.24,
+          "probability": 0.999639630317688
+        },
+        {
+          "word": " it",
+          "start": 320.24,
+          "end": 321.26,
+          "probability": 0.9983850717544556
+        },
+        {
+          "word": " will",
+          "start": 321.26,
+          "end": 321.82,
+          "probability": 0.9716139435768127
+        },
+        {
+          "word": " be",
+          "start": 321.82,
+          "end": 321.98,
+          "probability": 0.9999850988388062
+        },
+        {
+          "word": " triggered.",
+          "start": 321.98,
+          "end": 322.32,
+          "probability": 0.9999326467514038
+        }
+      ]
+    },
+    {
+      "start": 322.32,
+      "end": 324.06,
+      "text": "Market is boiling, my man.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Market",
+          "start": 322.32,
+          "end": 323.06,
+          "probability": 0.28487515449523926
+        },
+        {
+          "word": " is",
+          "start": 323.06,
+          "end": 323.34,
+          "probability": 0.9866710305213928
+        },
+        {
+          "word": " boiling,",
+          "start": 323.34,
+          "end": 323.62,
+          "probability": 0.9600740075111389
+        },
+        {
+          "word": " my",
+          "start": 323.8,
+          "end": 323.88,
+          "probability": 0.9401988387107849
+        },
+        {
+          "word": " man.",
+          "start": 323.88,
+          "end": 324.06,
+          "probability": 0.9831970930099487
+        }
+      ]
+    },
+    {
+      "start": 324.14,
+      "end": 328.42,
+      "text": "So I wanted to share with you a few things, but I forgot that you have interview right now.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " So",
+          "start": 324.14,
+          "end": 324.32,
+          "probability": 0.7997531890869141
+        },
+        {
+          "word": " I",
+          "start": 324.32,
+          "end": 325.04,
+          "probability": 0.5971793532371521
+        },
+        {
+          "word": " wanted",
+          "start": 325.04,
+          "end": 325.4,
+          "probability": 0.9964436888694763
+        },
+        {
+          "word": " to",
+          "start": 325.4,
+          "end": 325.54,
+          "probability": 0.9993984699249268
+        },
+        {
+          "word": " share",
+          "start": 325.54,
+          "end": 325.7,
+          "probability": 0.9964123368263245
+        },
+        {
+          "word": " with",
+          "start": 325.7,
+          "end": 325.82,
+          "probability": 0.9948815107345581
+        },
+        {
+          "word": " you",
+          "start": 325.82,
+          "end": 325.92,
+          "probability": 0.999051034450531
+        },
+        {
+          "word": " a",
+          "start": 325.92,
+          "end": 326.0,
+          "probability": 0.9415891170501709
+        },
+        {
+          "word": " few",
+          "start": 326.0,
+          "end": 326.1,
+          "probability": 0.9996294975280762
+        },
+        {
+          "word": " things,",
+          "start": 326.1,
+          "end": 326.42,
+          "probability": 0.9989880919456482
+        },
+        {
+          "word": " but",
+          "start": 326.58,
+          "end": 326.78,
+          "probability": 0.9989118576049805
+        },
+        {
+          "word": " I",
+          "start": 326.78,
+          "end": 326.88,
+          "probability": 0.9986883997917175
+        },
+        {
+          "word": " forgot",
+          "start": 326.88,
+          "end": 327.12,
+          "probability": 0.9982763528823853
+        },
+        {
+          "word": " that",
+          "start": 327.12,
+          "end": 327.3,
+          "probability": 0.9946390986442566
+        },
+        {
+          "word": " you",
+          "start": 327.3,
+          "end": 327.4,
+          "probability": 0.9975923895835876
+        },
+        {
+          "word": " have",
+          "start": 327.4,
+          "end": 327.5,
+          "probability": 0.9945370554924011
+        },
+        {
+          "word": " interview",
+          "start": 327.5,
+          "end": 327.8,
+          "probability": 0.41250136494636536
+        },
+        {
+          "word": " right",
+          "start": 327.8,
+          "end": 328.1,
+          "probability": 0.9984474778175354
+        },
+        {
+          "word": " now.",
+          "start": 328.1,
+          "end": 328.42,
+          "probability": 0.99982088804245
+        }
+      ]
+    },
+    {
+      "start": 328.58,
+      "end": 329.16,
+      "text": "So all good.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " So",
+          "start": 328.58,
+          "end": 328.76,
+          "probability": 0.9920319318771362
+        },
+        {
+          "word": " all",
+          "start": 328.76,
+          "end": 328.92,
+          "probability": 0.9763423204421997
+        },
+        {
+          "word": " good.",
+          "start": 328.92,
+          "end": 329.16,
+          "probability": 0.9973421692848206
+        }
+      ]
+    },
+    {
+      "start": 329.42,
+      "end": 331.48,
+      "text": "Just spoke with you a little bit more crypto.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Just",
+          "start": 329.42,
+          "end": 329.88,
+          "probability": 0.7529284954071045
+        },
+        {
+          "word": " spoke",
+          "start": 329.88,
+          "end": 330.1,
+          "probability": 0.5588451027870178
+        },
+        {
+          "word": " with",
+          "start": 330.1,
+          "end": 330.26,
+          "probability": 0.9862068891525269
+        },
+        {
+          "word": " you",
+          "start": 330.26,
+          "end": 330.38,
+          "probability": 0.9995204210281372
+        },
+        {
+          "word": " a",
+          "start": 330.38,
+          "end": 330.48,
+          "probability": 0.9986843466758728
+        },
+        {
+          "word": " little",
+          "start": 330.48,
+          "end": 330.6,
+          "probability": 0.9991525411605835
+        },
+        {
+          "word": " bit",
+          "start": 330.6,
+          "end": 330.8,
+          "probability": 0.9996985197067261
+        },
+        {
+          "word": " more",
+          "start": 330.8,
+          "end": 331.04,
+          "probability": 0.9979490637779236
+        },
+        {
+          "word": " crypto.",
+          "start": 331.04,
+          "end": 331.48,
+          "probability": 0.9978686571121216
+        }
+      ]
+    },
+    {
+      "start": 333.8,
+      "end": 335.3,
+      "text": "Let's go over to wallet again.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Let's",
+          "start": 333.8,
+          "end": 334.26,
+          "probability": 0.7699902057647705
+        },
+        {
+          "word": " go",
+          "start": 334.26,
+          "end": 334.34,
+          "probability": 0.9974732995033264
+        },
+        {
+          "word": " over",
+          "start": 334.34,
+          "end": 334.52,
+          "probability": 0.8552692532539368
+        },
+        {
+          "word": " to",
+          "start": 334.52,
+          "end": 334.76,
+          "probability": 0.9804691672325134
+        },
+        {
+          "word": " wallet",
+          "start": 334.76,
+          "end": 335.04,
+          "probability": 0.6199272274971008
+        },
+        {
+          "word": " again.",
+          "start": 335.04,
+          "end": 335.3,
+          "probability": 0.9997956156730652
+        }
+      ]
+    },
+    {
+      "start": 337.5,
+      "end": 338.58,
+      "text": "What about Trump?",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " What",
+          "start": 337.5,
+          "end": 337.96,
+          "probability": 0.9960590600967407
+        },
+        {
+          "word": " about",
+          "start": 337.96,
+          "end": 338.18,
+          "probability": 0.9998704195022583
+        },
+        {
+          "word": " Trump?",
+          "start": 338.18,
+          "end": 338.58,
+          "probability": 0.9599068760871887
+        }
+      ]
+    },
+    {
+      "start": 340.44000000000005,
+      "end": 341.64,
+      "text": "Trump, 8%, mate.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Trump,",
+          "start": 340.44000000000005,
+          "end": 340.90000000000003,
+          "probability": 0.9983872175216675
+        },
+        {
+          "word": " 8%,",
+          "start": 340.90000000000003,
+          "end": 341.36,
+          "probability": 0.8173872828483582
+        },
+        {
+          "word": " mate.",
+          "start": 341.36,
+          "end": 341.64,
+          "probability": 0.9985540509223938
+        }
+      ]
+    },
+    {
+      "start": 342.0,
+      "end": 342.46,
+      "text": "Up.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Up.",
+          "start": 342.0,
+          "end": 342.46,
+          "probability": 0.9564181566238403
+        }
+      ]
+    },
+    {
+      "start": 342.88,
+      "end": 343.34,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Yeah.",
+          "start": 342.88,
+          "end": 343.34,
+          "probability": 0.9429745078086853
+        }
+      ]
+    },
+    {
+      "start": 343.82,
+      "end": 344.28,
+      "text": "See?",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " See?",
+          "start": 343.82,
+          "end": 344.28,
+          "probability": 0.9894540309906006
+        }
+      ]
+    },
+    {
+      "start": 345.46000000000004,
+      "end": 346.38,
+      "text": "Ethereum, 8%.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Ethereum,",
+          "start": 345.46000000000004,
+          "end": 345.92,
+          "probability": 0.8542696237564087
+        },
+        {
+          "word": " 8%.",
+          "start": 345.92,
+          "end": 346.38,
+          "probability": 0.9320822358131409
+        }
+      ]
+    },
+    {
+      "start": 348.06000000000006,
+      "end": 348.98,
+      "text": "XRP, 3%.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " XRP,",
+          "start": 348.06000000000006,
+          "end": 348.52000000000004,
+          "probability": 0.9601187109947205
+        },
+        {
+          "word": " 3%.",
+          "start": 348.52000000000004,
+          "end": 348.98,
+          "probability": 0.9995852708816528
+        }
+      ]
+    },
+    {
+      "start": 348.98,
+      "end": 350.48,
+      "text": "7% Solana.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " 7",
+          "start": 348.98,
+          "end": 349.66,
+          "probability": 0.9936929941177368
+        },
+        {
+          "word": "%",
+          "start": 349.66,
+          "end": 349.98,
+          "probability": 0.8866825103759766
+        },
+        {
+          "word": " Solana.",
+          "start": 349.98,
+          "end": 350.48,
+          "probability": 0.7451779246330261
+        }
+      ]
+    },
+    {
+      "start": 351.24,
+      "end": 351.7,
+      "text": "Bitcoin.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Bitcoin.",
+          "start": 351.24,
+          "end": 351.7,
+          "probability": 0.9976838827133179
+        }
+      ]
+    },
+    {
+      "start": 352.32,
+      "end": 352.44,
+      "text": "Yeah.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Yeah.",
+          "start": 352.32,
+          "end": 352.44,
+          "probability": 0.41478240489959717
+        }
+      ]
+    },
+    {
+      "start": 352.44,
+      "end": 352.92,
+      "text": "Okay.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Okay.",
+          "start": 352.44,
+          "end": 352.92,
+          "probability": 0.8879148960113525
+        }
+      ]
+    },
+    {
+      "start": 353.72,
+      "end": 354.76,
+      "text": "Go to...",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Go",
+          "start": 353.72,
+          "end": 354.24,
+          "probability": 0.8963010311126709
+        },
+        {
+          "word": " to...",
+          "start": 354.24,
+          "end": 354.76,
+          "probability": 0.7874001264572144
+        }
+      ]
+    },
+    {
+      "start": 355.46,
+      "end": 357.06,
+      "text": "We finished with SwiftX for now.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " We",
+          "start": 355.46,
+          "end": 355.74,
+          "probability": 0.9927120208740234
+        },
+        {
+          "word": " finished",
+          "start": 355.74,
+          "end": 356.12,
+          "probability": 0.672982931137085
+        },
+        {
+          "word": " with",
+          "start": 356.12,
+          "end": 356.34,
+          "probability": 0.9993993043899536
+        },
+        {
+          "word": " SwiftX",
+          "start": 356.34,
+          "end": 356.7,
+          "probability": 0.895578920841217
+        },
+        {
+          "word": " for",
+          "start": 356.7,
+          "end": 356.84,
+          "probability": 0.988885760307312
+        },
+        {
+          "word": " now.",
+          "start": 356.84,
+          "end": 357.06,
+          "probability": 0.9999642372131348
+        }
+      ]
+    },
+    {
+      "start": 357.58000000000004,
+      "end": 358.86,
+      "text": "Go to Binance.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Go",
+          "start": 357.58000000000004,
+          "end": 358.1,
+          "probability": 0.9989038705825806
+        },
+        {
+          "word": " to",
+          "start": 358.1,
+          "end": 358.36,
+          "probability": 0.9999809265136719
+        },
+        {
+          "word": " Binance.",
+          "start": 358.36,
+          "end": 358.86,
+          "probability": 0.9993981122970581
+        }
+      ]
+    },
+    {
+      "start": 358.86,
+      "end": 361.48,
+      "text": "Let me just double check that everything is correct over there.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Let",
+          "start": 358.86,
+          "end": 359.12,
+          "probability": 0.9959083795547485
+        },
+        {
+          "word": " me",
+          "start": 359.12,
+          "end": 359.3,
+          "probability": 0.9988948702812195
+        },
+        {
+          "word": " just",
+          "start": 359.3,
+          "end": 359.48,
+          "probability": 0.9998520612716675
+        },
+        {
+          "word": " double",
+          "start": 359.48,
+          "end": 359.74,
+          "probability": 0.9999518394470215
+        },
+        {
+          "word": " check",
+          "start": 359.74,
+          "end": 359.98,
+          "probability": 0.6253560185432434
+        },
+        {
+          "word": " that",
+          "start": 359.98,
+          "end": 360.22,
+          "probability": 0.999254047870636
+        },
+        {
+          "word": " everything",
+          "start": 360.22,
+          "end": 360.46,
+          "probability": 0.9998328685760498
+        },
+        {
+          "word": " is",
+          "start": 360.46,
+          "end": 360.7,
+          "probability": 0.998412013053894
+        },
+        {
+          "word": " correct",
+          "start": 360.7,
+          "end": 360.96,
+          "probability": 0.9997448325157166
+        },
+        {
+          "word": " over",
+          "start": 360.96,
+          "end": 361.26,
+          "probability": 0.9989513158798218
+        },
+        {
+          "word": " there.",
+          "start": 361.26,
+          "end": 361.48,
+          "probability": 0.9999803304672241
+        }
+      ]
+    },
+    {
+      "start": 363.04,
+      "end": 364.08,
+      "text": "Yes, Binance.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Yes,",
+          "start": 363.04,
+          "end": 363.56,
+          "probability": 0.9952772855758667
+        },
+        {
+          "word": " Binance.",
+          "start": 363.56,
+          "end": 364.08,
+          "probability": 0.999872088432312
+        }
+      ]
+    },
+    {
+      "start": 364.12,
+      "end": 365.52,
+      "text": "I already logged in.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " I",
+          "start": 364.12,
+          "end": 364.46,
+          "probability": 0.9849506616592407
+        },
+        {
+          "word": " already",
+          "start": 364.46,
+          "end": 364.76,
+          "probability": 0.9780411124229431
+        },
+        {
+          "word": " logged",
+          "start": 364.76,
+          "end": 365.14,
+          "probability": 0.9731698036193848
+        },
+        {
+          "word": " in.",
+          "start": 365.14,
+          "end": 365.52,
+          "probability": 0.9999675750732422
+        }
+      ]
+    },
+    {
+      "start": 365.6,
+      "end": 366.8,
+      "text": "And I was looking at this.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " And",
+          "start": 365.6,
+          "end": 365.8,
+          "probability": 0.25580164790153503
+        },
+        {
+          "word": " I",
+          "start": 365.8,
+          "end": 365.9,
+          "probability": 0.9974130988121033
+        },
+        {
+          "word": " was",
+          "start": 365.9,
+          "end": 366.06,
+          "probability": 0.9999780654907227
+        },
+        {
+          "word": " looking",
+          "start": 366.06,
+          "end": 366.3,
+          "probability": 0.9999339580535889
+        },
+        {
+          "word": " at",
+          "start": 366.3,
+          "end": 366.56,
+          "probability": 0.9999688863754272
+        },
+        {
+          "word": " this.",
+          "start": 366.56,
+          "end": 366.8,
+          "probability": 0.9998939037322998
+        }
+      ]
+    },
+    {
+      "start": 366.92,
+      "end": 368.3,
+      "text": "Also what?",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Also",
+          "start": 366.92,
+          "end": 367.42,
+          "probability": 0.9234170913696289
+        },
+        {
+          "word": " what?",
+          "start": 367.42,
+          "end": 368.3,
+          "probability": 0.5746773481369019
+        }
+      ]
+    },
+    {
+      "start": 369.40000000000003,
+      "end": 369.92,
+      "text": "Ethereum.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Ethereum.",
+          "start": 369.40000000000003,
+          "end": 369.92,
+          "probability": 0.9955993890762329
+        }
+      ]
+    },
+    {
+      "start": 370.16,
+      "end": 374.3,
+      "text": "You already Ethereum on your SwiftX account.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " You",
+          "start": 370.16,
+          "end": 370.42,
+          "probability": 0.9921516180038452
+        },
+        {
+          "word": " already",
+          "start": 370.42,
+          "end": 370.76,
+          "probability": 0.7481699585914612
+        },
+        {
+          "word": " Ethereum",
+          "start": 370.76,
+          "end": 371.74,
+          "probability": 0.3487188220024109
+        },
+        {
+          "word": " on",
+          "start": 371.74,
+          "end": 372.12,
+          "probability": 0.8972017168998718
+        },
+        {
+          "word": " your",
+          "start": 372.12,
+          "end": 373.46,
+          "probability": 0.9999204874038696
+        },
+        {
+          "word": " SwiftX",
+          "start": 373.46,
+          "end": 374.06,
+          "probability": 0.999183714389801
+        },
+        {
+          "word": " account.",
+          "start": 374.06,
+          "end": 374.3,
+          "probability": 0.9998593330383301
+        }
+      ]
+    },
+    {
+      "start": 375.28000000000003,
+      "end": 376.72,
+      "text": "I bought with you Friday.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " I",
+          "start": 375.28000000000003,
+          "end": 375.8,
+          "probability": 0.8841970562934875
+        },
+        {
+          "word": " bought",
+          "start": 375.8,
+          "end": 376.04,
+          "probability": 0.9625712037086487
+        },
+        {
+          "word": " with",
+          "start": 376.04,
+          "end": 376.3,
+          "probability": 0.7237325310707092
+        },
+        {
+          "word": " you",
+          "start": 376.3,
+          "end": 376.32,
+          "probability": 0.9956749081611633
+        },
+        {
+          "word": " Friday.",
+          "start": 376.32,
+          "end": 376.72,
+          "probability": 0.9829665422439575
+        }
+      ]
+    },
+    {
+      "start": 378.54,
+      "end": 379.06,
+      "text": "Okay.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Okay.",
+          "start": 378.54,
+          "end": 379.06,
+          "probability": 0.9785735011100769
+        }
+      ]
+    },
+    {
+      "start": 379.24,
+      "end": 380.4,
+      "text": "I will take over.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " I",
+          "start": 379.24,
+          "end": 379.76,
+          "probability": 0.7403135895729065
+        },
+        {
+          "word": " will",
+          "start": 379.76,
+          "end": 380.0,
+          "probability": 0.9878003597259521
+        },
+        {
+          "word": " take",
+          "start": 380.0,
+          "end": 380.16,
+          "probability": 0.9999226331710815
+        },
+        {
+          "word": " over.",
+          "start": 380.16,
+          "end": 380.4,
+          "probability": 0.997153639793396
+        }
+      ]
+    },
+    {
+      "start": 380.58,
+      "end": 381.74,
+      "text": "Take you to the right place.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Take",
+          "start": 380.58,
+          "end": 381.1,
+          "probability": 0.843754768371582
+        },
+        {
+          "word": " you",
+          "start": 381.1,
+          "end": 381.2,
+          "probability": 0.9987488985061646
+        },
+        {
+          "word": " to",
+          "start": 381.2,
+          "end": 381.32,
+          "probability": 0.9999510049819946
+        },
+        {
+          "word": " the",
+          "start": 381.32,
+          "end": 381.42,
+          "probability": 0.9997709393501282
+        },
+        {
+          "word": " right",
+          "start": 381.42,
+          "end": 381.56,
+          "probability": 0.5877549052238464
+        },
+        {
+          "word": " place.",
+          "start": 381.56,
+          "end": 381.74,
+          "probability": 0.9978935122489929
+        }
+      ]
+    },
+    {
+      "start": 383.29999999999995,
+      "end": 384.56,
+      "text": "Oh shit.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 383.29999999999995,
+          "end": 384.02,
+          "probability": 0.005867187399417162
+        },
+        {
+          "word": " shit.",
+          "start": 384.02,
+          "end": 384.56,
+          "probability": 0.0015104388585314155
+        }
+      ]
+    },
+    {
+      "start": 384.56,
+      "end": 385.14,
+      "text": "Oh shit.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 384.56,
+          "end": 385.14,
+          "probability": 0.23846442997455597
+        },
+        {
+          "word": " shit.",
+          "start": 385.14,
+          "end": 385.14,
+          "probability": 0.9823186993598938
+        }
+      ]
+    },
+    {
+      "start": 385.14,
+      "end": 385.26,
+      "text": "Oh shit.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 385.14,
+          "end": 385.26,
+          "probability": 0.5738618969917297
+        },
+        {
+          "word": " shit.",
+          "start": 385.26,
+          "end": 385.26,
+          "probability": 0.9922034740447998
+        }
+      ]
+    },
+    {
+      "start": 390.48,
+      "end": 391.62,
+      "text": "Oh shit.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 390.48,
+          "end": 391.2,
+          "probability": 0.7586700320243835
+        },
+        {
+          "word": " shit.",
+          "start": 391.2,
+          "end": 391.62,
+          "probability": 0.9945502877235413
+        }
+      ]
+    },
+    {
+      "start": 393.08000000000004,
+      "end": 394.42,
+      "text": "Oh shit.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 393.08000000000004,
+          "end": 393.8,
+          "probability": 0.825529158115387
+        },
+        {
+          "word": " shit.",
+          "start": 393.8,
+          "end": 394.42,
+          "probability": 0.9954550266265869
+        }
+      ]
+    },
+    {
+      "start": 395.8,
+      "end": 396.56,
+      "text": "Oh shit.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 395.8,
+          "end": 396.04,
+          "probability": 0.8558898568153381
+        },
+        {
+          "word": " shit.",
+          "start": 396.04,
+          "end": 396.56,
+          "probability": 0.9959700107574463
+        }
+      ]
+    },
+    {
+      "start": 397.3,
+      "end": 397.64,
+      "text": "Oh shit.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 397.3,
+          "end": 397.64,
+          "probability": 0.8774060606956482
+        },
+        {
+          "word": " shit.",
+          "start": 397.64,
+          "end": 397.64,
+          "probability": 0.9963470101356506
+        }
+      ]
+    },
+    {
+      "start": 399.42,
+      "end": 400.38,
+      "text": "Oh shit.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 399.42,
+          "end": 400.14,
+          "probability": 0.8936247229576111
+        },
+        {
+          "word": " shit.",
+          "start": 400.14,
+          "end": 400.38,
+          "probability": 0.9967095851898193
+        }
+      ]
+    },
+    {
+      "start": 400.44,
+      "end": 400.76,
+      "text": "Oh shit.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 400.44,
+          "end": 400.58,
+          "probability": 0.9062903523445129
+        },
+        {
+          "word": " shit.",
+          "start": 400.58,
+          "end": 400.76,
+          "probability": 0.9970056414604187
+        }
+      ]
+    },
+    {
+      "start": 400.76,
+      "end": 400.78,
+      "text": "Oh shit.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 400.76,
+          "end": 400.76,
+          "probability": 0.9500900506973267
+        },
+        {
+          "word": " shit.",
+          "start": 400.76,
+          "end": 400.78,
+          "probability": 0.998184859752655
+        }
+      ]
+    },
+    {
+      "start": 400.86,
+      "end": 400.96,
+      "text": "Oh shit.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 400.86,
+          "end": 400.96,
+          "probability": 0.9531798362731934
+        },
+        {
+          "word": " shit.",
+          "start": 400.96,
+          "end": 400.96,
+          "probability": 0.9982925057411194
+        }
+      ]
+    },
+    {
+      "start": 400.96,
+      "end": 401.84,
+      "text": "Oh shit.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 400.96,
+          "end": 401.4,
+          "probability": 0.9514893293380737
+        },
+        {
+          "word": " shit.",
+          "start": 401.4,
+          "end": 401.84,
+          "probability": 0.9984751343727112
+        }
+      ]
+    },
+    {
+      "start": 402.38,
+      "end": 402.64,
+      "text": "Oh shit.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 402.38,
+          "end": 402.42,
+          "probability": 0.9509924054145813
+        },
+        {
+          "word": " shit.",
+          "start": 402.42,
+          "end": 402.64,
+          "probability": 0.9984412789344788
+        }
+      ]
+    },
+    {
+      "start": 402.94,
+      "end": 403.26,
+      "text": "Oh shit.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 402.94,
+          "end": 403.12,
+          "probability": 0.9503523111343384
+        },
+        {
+          "word": " shit.",
+          "start": 403.12,
+          "end": 403.26,
+          "probability": 0.9984050393104553
+        }
+      ]
+    },
+    {
+      "start": 403.38,
+      "end": 403.52,
+      "text": "Oh shit.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 403.38,
+          "end": 403.4,
+          "probability": 0.9495454430580139
+        },
+        {
+          "word": " shit.",
+          "start": 403.4,
+          "end": 403.52,
+          "probability": 0.9983916878700256
+        }
+      ]
+    },
+    {
+      "start": 404.36,
+      "end": 405.8,
+      "text": "Oh shit.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 404.36,
+          "end": 405.08000000000004,
+          "probability": 0.9491103291511536
+        },
+        {
+          "word": " shit.",
+          "start": 405.08000000000004,
+          "end": 405.8,
+          "probability": 0.9983526468276978
+        }
+      ]
+    },
+    {
+      "start": 406.2,
+      "end": 407.08,
+      "text": "Oh shit.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 406.2,
+          "end": 406.56,
+          "probability": 0.9485421776771545
+        },
+        {
+          "word": " shit.",
+          "start": 406.56,
+          "end": 407.08,
+          "probability": 0.9983364939689636
+        }
+      ]
+    },
+    {
+      "start": 407.42,
+      "end": 409.28,
+      "text": "Oh shit.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 407.42,
+          "end": 407.42,
+          "probability": 0.948238730430603
+        },
+        {
+          "word": " shit.",
+          "start": 407.42,
+          "end": 409.28,
+          "probability": 0.9982733726501465
+        }
+      ]
+    },
+    {
+      "start": 409.68,
+      "end": 409.84,
+      "text": "Oh shit.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 409.68,
+          "end": 409.68,
+          "probability": 0.948194682598114
+        },
+        {
+          "word": " shit.",
+          "start": 409.68,
+          "end": 409.84,
+          "probability": 0.9982578158378601
+        }
+      ]
+    },
+    {
+      "start": 410.48,
+      "end": 411.76,
+      "text": "Oh shit.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Oh",
+          "start": 410.48,
+          "end": 411.2,
+          "probability": 0.9473002552986145
+        },
+        {
+          "word": " shit.",
+          "start": 411.2,
+          "end": 411.76,
+          "probability": 0.9982098340988159
+        }
+      ]
+    },
+    {
+      "start": 411.76,
+      "end": 413.82,
+      "text": "7,000 Australian after all the fees",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " 7",
+          "start": 411.76,
+          "end": 411.9,
+          "probability": 0.5367401838302612
+        },
+        {
+          "word": ",000",
+          "start": 411.9,
+          "end": 412.36,
+          "probability": 0.9301875829696655
+        },
+        {
+          "word": " Australian",
+          "start": 412.36,
+          "end": 412.68,
+          "probability": 0.9604387283325195
+        },
+        {
+          "word": " after",
+          "start": 412.68,
+          "end": 413.1,
+          "probability": 0.9613277912139893
+        },
+        {
+          "word": " all",
+          "start": 413.1,
+          "end": 413.42,
+          "probability": 0.997421383857727
+        },
+        {
+          "word": " the",
+          "start": 413.42,
+          "end": 413.6,
+          "probability": 0.9989815354347229
+        },
+        {
+          "word": " fees",
+          "start": 413.6,
+          "end": 413.82,
+          "probability": 0.9980050921440125
+        }
+      ]
+    },
+    {
+      "start": 413.82,
+      "end": 415.38,
+      "text": "that you paid just until now.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " that",
+          "start": 413.82,
+          "end": 414.02,
+          "probability": 0.9765416383743286
+        },
+        {
+          "word": " you",
+          "start": 414.02,
+          "end": 414.16,
+          "probability": 0.9873807430267334
+        },
+        {
+          "word": " paid",
+          "start": 414.16,
+          "end": 414.4,
+          "probability": 0.9976361989974976
+        },
+        {
+          "word": " just",
+          "start": 414.4,
+          "end": 414.8,
+          "probability": 0.8450266122817993
+        },
+        {
+          "word": " until",
+          "start": 414.8,
+          "end": 415.0,
+          "probability": 0.9988817572593689
+        },
+        {
+          "word": " now.",
+          "start": 415.0,
+          "end": 415.38,
+          "probability": 0.9994899034500122
+        }
+      ]
+    },
+    {
+      "start": 415.88,
+      "end": 417.36,
+      "text": "Roughly around 3%.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Roughly",
+          "start": 415.88,
+          "end": 416.32,
+          "probability": 0.9949008226394653
+        },
+        {
+          "word": " around",
+          "start": 416.32,
+          "end": 416.5,
+          "probability": 0.9981904625892639
+        },
+        {
+          "word": " 3%.",
+          "start": 416.5,
+          "end": 417.36,
+          "probability": 0.679561197757721
+        }
+      ]
+    },
+    {
+      "start": 418.78000000000003,
+      "end": 419.82,
+      "text": "Just until now.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Just",
+          "start": 418.78000000000003,
+          "end": 419.22,
+          "probability": 0.9571667909622192
+        },
+        {
+          "word": " until",
+          "start": 419.22,
+          "end": 419.56,
+          "probability": 0.9992201328277588
+        },
+        {
+          "word": " now.",
+          "start": 419.56,
+          "end": 419.82,
+          "probability": 0.9995445609092712
+        }
+      ]
+    },
+    {
+      "start": 420.64,
+      "end": 421.08,
+      "text": "Okay?",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Okay?",
+          "start": 420.64,
+          "end": 421.08,
+          "probability": 0.49329397082328796
+        }
+      ]
+    },
+    {
+      "start": 422.02,
+      "end": 423.82,
+      "text": "More to come. I will share with you all",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " More",
+          "start": 422.02,
+          "end": 422.46,
+          "probability": 0.9528899192810059
+        },
+        {
+          "word": " to",
+          "start": 422.46,
+          "end": 422.64,
+          "probability": 0.9998801946640015
+        },
+        {
+          "word": " come.",
+          "start": 422.64,
+          "end": 422.86,
+          "probability": 0.9999434947967529
+        },
+        {
+          "word": " I",
+          "start": 422.92,
+          "end": 423.06,
+          "probability": 0.9990529417991638
+        },
+        {
+          "word": " will",
+          "start": 423.06,
+          "end": 423.14,
+          "probability": 0.7896577715873718
+        },
+        {
+          "word": " share",
+          "start": 423.14,
+          "end": 423.36,
+          "probability": 0.9991346001625061
+        },
+        {
+          "word": " with",
+          "start": 423.36,
+          "end": 423.52,
+          "probability": 0.9994797110557556
+        },
+        {
+          "word": " you",
+          "start": 423.52,
+          "end": 423.68,
+          "probability": 0.9999362230300903
+        },
+        {
+          "word": " all",
+          "start": 423.68,
+          "end": 423.82,
+          "probability": 0.9903669357299805
+        }
+      ]
+    },
+    {
+      "start": 423.82,
+      "end": 425.0,
+      "text": "the information later on today.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " the",
+          "start": 423.82,
+          "end": 423.88,
+          "probability": 0.9997236132621765
+        },
+        {
+          "word": " information",
+          "start": 423.88,
+          "end": 424.18,
+          "probability": 0.9997715353965759
+        },
+        {
+          "word": " later",
+          "start": 424.18,
+          "end": 424.54,
+          "probability": 0.9992353916168213
+        },
+        {
+          "word": " on",
+          "start": 424.54,
+          "end": 424.78,
+          "probability": 0.999579131603241
+        },
+        {
+          "word": " today.",
+          "start": 424.78,
+          "end": 425.0,
+          "probability": 0.9992445707321167
+        }
+      ]
+    },
+    {
+      "start": 425.36,
+      "end": 427.86,
+      "text": "We are probably going to make a big move",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " We",
+          "start": 425.36,
+          "end": 425.8,
+          "probability": 0.27240389585494995
+        },
+        {
+          "word": " are",
+          "start": 425.8,
+          "end": 426.48,
+          "probability": 0.9992209672927856
+        },
+        {
+          "word": " probably",
+          "start": 426.48,
+          "end": 426.76,
+          "probability": 0.9997726082801819
+        },
+        {
+          "word": " going",
+          "start": 426.76,
+          "end": 426.96,
+          "probability": 0.9999008178710938
+        },
+        {
+          "word": " to",
+          "start": 426.96,
+          "end": 427.16,
+          "probability": 0.9999432563781738
+        },
+        {
+          "word": " make",
+          "start": 427.16,
+          "end": 427.32,
+          "probability": 0.9997549653053284
+        },
+        {
+          "word": " a",
+          "start": 427.32,
+          "end": 427.44,
+          "probability": 0.9998201727867126
+        },
+        {
+          "word": " big",
+          "start": 427.44,
+          "end": 427.62,
+          "probability": 0.9998409748077393
+        },
+        {
+          "word": " move",
+          "start": 427.62,
+          "end": 427.86,
+          "probability": 0.9994878768920898
+        }
+      ]
+    },
+    {
+      "start": 427.86,
+      "end": 429.8,
+      "text": "as well on Trump coin.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " as",
+          "start": 427.86,
+          "end": 428.04,
+          "probability": 0.9939747452735901
+        },
+        {
+          "word": " well",
+          "start": 428.04,
+          "end": 428.2,
+          "probability": 0.9999001026153564
+        },
+        {
+          "word": " on",
+          "start": 428.2,
+          "end": 428.4,
+          "probability": 0.9996364116668701
+        },
+        {
+          "word": " Trump",
+          "start": 428.4,
+          "end": 429.38,
+          "probability": 0.7318283915519714
+        },
+        {
+          "word": " coin.",
+          "start": 429.38,
+          "end": 429.8,
+          "probability": 0.796136736869812
+        }
+      ]
+    },
+    {
+      "start": 429.96,
+      "end": 432.02,
+      "text": "Trump is going to come with a big statement.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Trump",
+          "start": 429.96,
+          "end": 430.36,
+          "probability": 0.9986786246299744
+        },
+        {
+          "word": " is",
+          "start": 430.36,
+          "end": 430.54,
+          "probability": 0.9993736147880554
+        },
+        {
+          "word": " going",
+          "start": 430.54,
+          "end": 430.7,
+          "probability": 0.9997499585151672
+        },
+        {
+          "word": " to",
+          "start": 430.7,
+          "end": 430.88,
+          "probability": 0.9998811483383179
+        },
+        {
+          "word": " come",
+          "start": 430.88,
+          "end": 431.06,
+          "probability": 0.9901561737060547
+        },
+        {
+          "word": " with",
+          "start": 431.06,
+          "end": 431.28,
+          "probability": 0.9979078769683838
+        },
+        {
+          "word": " a",
+          "start": 431.28,
+          "end": 431.42,
+          "probability": 0.9934232234954834
+        },
+        {
+          "word": " big",
+          "start": 431.42,
+          "end": 431.58,
+          "probability": 0.9998568296432495
+        },
+        {
+          "word": " statement.",
+          "start": 431.58,
+          "end": 432.02,
+          "probability": 0.9998087286949158
+        }
+      ]
+    },
+    {
+      "start": 432.24,
+      "end": 433.52,
+      "text": "So I will share that with you.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " So",
+          "start": 432.24,
+          "end": 432.5,
+          "probability": 0.831899881362915
+        },
+        {
+          "word": " I",
+          "start": 432.5,
+          "end": 432.6,
+          "probability": 0.6588767766952515
+        },
+        {
+          "word": " will",
+          "start": 432.6,
+          "end": 432.72,
+          "probability": 0.985454797744751
+        },
+        {
+          "word": " share",
+          "start": 432.72,
+          "end": 432.96,
+          "probability": 0.9998487234115601
+        },
+        {
+          "word": " that",
+          "start": 432.96,
+          "end": 433.1,
+          "probability": 0.9997581839561462
+        },
+        {
+          "word": " with",
+          "start": 433.1,
+          "end": 433.3,
+          "probability": 0.9999057054519653
+        },
+        {
+          "word": " you.",
+          "start": 433.3,
+          "end": 433.52,
+          "probability": 0.9999804496765137
+        }
+      ]
+    },
+    {
+      "start": 434.2,
+      "end": 435.72,
+      "text": "We scheduled a call for",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " We",
+          "start": 434.2,
+          "end": 434.64,
+          "probability": 0.9920833110809326
+        },
+        {
+          "word": " scheduled",
+          "start": 434.64,
+          "end": 434.96,
+          "probability": 0.6503143906593323
+        },
+        {
+          "word": " a",
+          "start": 434.96,
+          "end": 435.18,
+          "probability": 0.9998773336410522
+        },
+        {
+          "word": " call",
+          "start": 435.18,
+          "end": 435.4,
+          "probability": 0.9998797178268433
+        },
+        {
+          "word": " for",
+          "start": 435.4,
+          "end": 435.72,
+          "probability": 0.9998494386672974
+        }
+      ]
+    },
+    {
+      "start": 436.8,
+      "end": 437.68,
+      "text": "7 o'clock",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " 7",
+          "start": 436.8,
+          "end": 437.24,
+          "probability": 0.9799962043762207
+        },
+        {
+          "word": " o",
+          "start": 437.24,
+          "end": 437.36,
+          "probability": 0.9967619180679321
+        },
+        {
+          "word": "'clock",
+          "start": 437.36,
+          "end": 437.68,
+          "probability": 0.9999677538871765
+        }
+      ]
+    },
+    {
+      "start": 437.68,
+      "end": 438.54,
+      "text": "later on tonight.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " later",
+          "start": 437.68,
+          "end": 438.06,
+          "probability": 0.9939045310020447
+        },
+        {
+          "word": " on",
+          "start": 438.06,
+          "end": 438.3,
+          "probability": 0.9998075366020203
+        },
+        {
+          "word": " tonight.",
+          "start": 438.3,
+          "end": 438.54,
+          "probability": 0.99955815076828
+        }
+      ]
+    },
+    {
+      "start": 440.44000000000005,
+      "end": 441.62,
+      "text": "If you are around",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " If",
+          "start": 440.44000000000005,
+          "end": 440.84000000000003,
+          "probability": 0.014059611596167088
+        },
+        {
+          "word": " you",
+          "start": 440.84000000000003,
+          "end": 441.24,
+          "probability": 0.9948557615280151
+        },
+        {
+          "word": " are",
+          "start": 441.24,
+          "end": 441.36,
+          "probability": 0.5359144806861877
+        },
+        {
+          "word": " around",
+          "start": 441.36,
+          "end": 441.62,
+          "probability": 0.9735904335975647
+        }
+      ]
+    },
+    {
+      "start": 441.62,
+      "end": 442.82,
+      "text": "before, shoot me a text.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " before,",
+          "start": 441.62,
+          "end": 441.88,
+          "probability": 0.9629920125007629
+        },
+        {
+          "word": " shoot",
+          "start": 442.06,
+          "end": 442.28,
+          "probability": 0.990557074546814
+        },
+        {
+          "word": " me",
+          "start": 442.28,
+          "end": 442.46,
+          "probability": 0.9981436729431152
+        },
+        {
+          "word": " a",
+          "start": 442.46,
+          "end": 442.56,
+          "probability": 0.9545960426330566
+        },
+        {
+          "word": " text.",
+          "start": 442.56,
+          "end": 442.82,
+          "probability": 0.9965052604675293
+        }
+      ]
+    },
+    {
+      "start": 443.64000000000004,
+      "end": 445.44,
+      "text": "Alright. I'll do that.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Alright.",
+          "start": 443.64000000000004,
+          "end": 444.04,
+          "probability": 0.2142575979232788
+        },
+        {
+          "word": " I'll",
+          "start": 444.62,
+          "end": 445.02,
+          "probability": 0.9596696496009827
+        },
+        {
+          "word": " do",
+          "start": 445.02,
+          "end": 445.2,
+          "probability": 0.998698353767395
+        },
+        {
+          "word": " that.",
+          "start": 445.2,
+          "end": 445.44,
+          "probability": 0.9992976188659668
+        }
+      ]
+    },
+    {
+      "start": 445.94,
+      "end": 447.46,
+      "text": "Beautiful, my man. And good luck",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Beautiful,",
+          "start": 445.94,
+          "end": 446.34,
+          "probability": 0.8769068121910095
+        },
+        {
+          "word": " my",
+          "start": 446.52,
+          "end": 446.64,
+          "probability": 0.9927771091461182
+        },
+        {
+          "word": " man.",
+          "start": 446.64,
+          "end": 446.82,
+          "probability": 0.9986311793327332
+        },
+        {
+          "word": " And",
+          "start": 446.92,
+          "end": 447.02,
+          "probability": 0.6846213340759277
+        },
+        {
+          "word": " good",
+          "start": 447.02,
+          "end": 447.22,
+          "probability": 0.9929125905036926
+        },
+        {
+          "word": " luck",
+          "start": 447.22,
+          "end": 447.46,
+          "probability": 0.9999597072601318
+        }
+      ]
+    },
+    {
+      "start": 447.46,
+      "end": 449.08,
+      "text": "in the interview, my man. All the best.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " in",
+          "start": 447.46,
+          "end": 447.64,
+          "probability": 0.9942246079444885
+        },
+        {
+          "word": " the",
+          "start": 447.64,
+          "end": 447.72,
+          "probability": 0.999509334564209
+        },
+        {
+          "word": " interview,",
+          "start": 447.72,
+          "end": 447.94,
+          "probability": 0.9997915625572205
+        },
+        {
+          "word": " my",
+          "start": 448.14,
+          "end": 448.22,
+          "probability": 0.9975857734680176
+        },
+        {
+          "word": " man.",
+          "start": 448.22,
+          "end": 448.42,
+          "probability": 0.9998939037322998
+        },
+        {
+          "word": " All",
+          "start": 448.5,
+          "end": 448.74,
+          "probability": 0.9947473406791687
+        },
+        {
+          "word": " the",
+          "start": 448.74,
+          "end": 448.88,
+          "probability": 0.9999794960021973
+        },
+        {
+          "word": " best.",
+          "start": 448.88,
+          "end": 449.08,
+          "probability": 0.9999852180480957
+        }
+      ]
+    },
+    {
+      "start": 449.6,
+      "end": 451.56,
+      "text": "Thanks, Ron. Speak to you later then.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Thanks,",
+          "start": 449.6,
+          "end": 450.0,
+          "probability": 0.9662395715713501
+        },
+        {
+          "word": " Ron.",
+          "start": 450.0,
+          "end": 450.16,
+          "probability": 0.6417312622070312
+        },
+        {
+          "word": " Speak",
+          "start": 450.4,
+          "end": 450.8,
+          "probability": 0.9956596493721008
+        },
+        {
+          "word": " to",
+          "start": 450.8,
+          "end": 451.04,
+          "probability": 0.9998871088027954
+        },
+        {
+          "word": " you",
+          "start": 451.04,
+          "end": 451.08,
+          "probability": 0.9999898672103882
+        },
+        {
+          "word": " later",
+          "start": 451.08,
+          "end": 451.34,
+          "probability": 0.9999487400054932
+        },
+        {
+          "word": " then.",
+          "start": 451.34,
+          "end": 451.56,
+          "probability": 0.4243324398994446
+        }
+      ]
+    },
+    {
+      "start": 451.8,
+      "end": 453.2,
+      "text": "Speak to you later. Bye, my mate.",
+      "speaker": "SPEAKER_01",
+      "words": [
+        {
+          "word": " Speak",
+          "start": 451.8,
+          "end": 452.12,
+          "probability": 0.3070469796657562
+        },
+        {
+          "word": " to",
+          "start": 452.12,
+          "end": 452.2,
+          "probability": 0.9999434947967529
+        },
+        {
+          "word": " you",
+          "start": 452.2,
+          "end": 452.28,
+          "probability": 0.9999837875366211
+        },
+        {
+          "word": " later.",
+          "start": 452.28,
+          "end": 452.46,
+          "probability": 0.9999792575836182
+        },
+        {
+          "word": " Bye,",
+          "start": 452.62,
+          "end": 452.94,
+          "probability": 0.9953171014785767
+        },
+        {
+          "word": " my",
+          "start": 452.96,
+          "end": 453.06,
+          "probability": 0.9609987139701843
+        },
+        {
+          "word": " mate.",
+          "start": 453.06,
+          "end": 453.2,
+          "probability": 0.8065295219421387
+        }
+      ]
+    },
+    {
+      "start": 453.4,
+      "end": 454.34,
+      "text": "Yes, man. Bye.",
+      "speaker": "SPEAKER_00",
+      "words": [
+        {
+          "word": " Yes,",
+          "start": 453.4,
+          "end": 453.8,
+          "probability": 0.7465943694114685
+        },
+        {
+          "word": " man.",
+          "start": 453.82,
+          "end": 454.02,
+          "probability": 0.9832319021224976
+        },
+        {
+          "word": " Bye.",
+          "start": 454.08,
+          "end": 454.34,
+          "probability": 0.9990284442901611
+        }
+      ]
+    }
+  ],
+  "num_segments": 159,
+  "speakers": [
+    "SPEAKER_00",
+    "SPEAKER_01"
+  ],
+  "num_speakers": 2,
+  "full_text": "Hello? Good day, Chris. This is Ron. How are you doing, my man? Good, and you, Ron? I'm doing great. Is that a good time to talk, or are you around by any chance? Mate, I've got quarter past. I've got ten minutes, then I'm going for that interview that they postponed on Friday. Ah, okay, okay, okay. No worries. I just want to double-check with you one thing, okay? So we're not having a long conversation now. You wrote me that you have 64,000 US inside Binance and 50,000 Australian dollars inside SwiftX, right? Yes. But it should be wrong. I mean, you should have more than that. In where? You need to have more... I transferred on Friday, Saturday and Sunday. 48, 48 and 48 over. Okay, and before that we transfer as well, like 50. So you need to have like 200,000 Australian dollars inside Binance. And 70 grand around... even more right now because the crypto market skyrocketed high. So I need to have like 80 around inside SwiftX. That's why it doesn't make sense. And I wanted to ring you to double-check. Are you able to connect with me? Yeah, for like one, two minutes. Just to double-check that everything is okay. Alright. We are standing in a very good time. I don't know if you follow whatever happened in the crypto market. It just skyrocketed in high quite a lot. We had massive news that happens and comes from Trump. We're not going to confuse you before your interview because I wonder if you will be prepared and fully on the interview. And I will share with you that later on tonight. But let's just double-check and making sure that everything is in the right place. I don't want that... I don't know if you will have any hacking or anything like that or someone took money from the exchange. Okay. And security code is CO2005. Oh, sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Oh sorry. Yeah, and sign in, yeah. That's James. Yeah. Yeah. Depends to the best of us. Dashboard. Okay. Overall performance, 4,301. Can I take over real quick? Yep. One second. So we see you have more than 50. You wrote that you have 50, mate. Yeah, there's 50 days. The others... Ah, no. No, I was talking about the overall portfolio, my man. Not about the amount of... Ah. All right. I got you. But remember there's other stuff that we sit on triggers? Yeah, yeah. Can you just approve my request? I asked you about the balance because the crypto market skyrocketed high over the weekend. So you see, 7%, 7%, 8%, 6%. So I asked you about the balance to understand. Okay. What is the situation? So that's good. We have 50K outside the market. Yep. I will buy... I will buy a little bit more over here. Mm-hmm. Just check the triggers. Is that coming through the money? It will not be triggered. I mean, all the crypto markets skyrocketed high. There is no way that it will be triggered. Market is boiling, my man. So I wanted to share with you a few things, but I forgot that you have interview right now. So all good. Just spoke with you a little bit more crypto. Let's go over to wallet again. What about Trump? Trump, 8%, mate. Up. Yeah. See? Ethereum, 8%. XRP, 3%. 7% Solana. Bitcoin. Yeah. Okay. Go to... We finished with SwiftX for now. Go to Binance. Let me just double check that everything is correct over there. Yes, Binance. I already logged in. And I was looking at this. Also what? Ethereum. You already Ethereum on your SwiftX account. I bought with you Friday. Okay. I will take over. Take you to the right place. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. Oh shit. 7,000 Australian after all the fees that you paid just until now. Roughly around 3%. Just until now. Okay? More to come. I will share with you all the information later on today. We are probably going to make a big move as well on Trump coin. Trump is going to come with a big statement. So I will share that with you. We scheduled a call for 7 o'clock later on tonight. If you are around before, shoot me a text. Alright. I'll do that. Beautiful, my man. And good luck in the interview, my man. All the best. Thanks, Ron. Speak to you later then. Speak to you later. Bye, my mate. Yes, man. Bye."
+}
