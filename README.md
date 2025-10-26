@@ -79,13 +79,25 @@ echo "HF_TOKEN=your_huggingface_token_here" > .env
 ### 3. Run Your First Transcription
 
 ```bash
-# Basic usage (recommended)
+# Test with included sample (2-speaker phone call)
+python transcribe_diarize_mlx.py \
+  --audio test/113195.wav \
+  --model mlx-community/whisper-large-v3-mlx \
+  --quantization int8 \
+  --language en \
+  --num_speakers 2 \
+  --preprocess \
+  --noise_reduction 0.85 \
+  --formats json srt txt \
+  --output_dir test_results
+
+# Or basic usage with your own audio
 python transcribe_diarize_mlx.py \
   --audio your_audio.wav \
   --num_speakers 2 \
   --preprocess
 
-# Output will be in transcriptions/ directory
+# Output will be in transcriptions/ or test_results/ directory
 ```
 
 ---
